@@ -1,0 +1,25 @@
+
+%  Emulates the Jazz Fakebook style. 
+%  Use caps for title, parts or Q: for tempo.
+
+   oneperpage
+   scale 0.9
+   topmargin 2cm
+   leftmargin 1.3cm
+   titlefont HobbitScript 24
+   subtitlefont HobbitScript 18
+   titleleft false
+   composerfont HobbitScript 9
+   composerspace 0.3cm
+   partsfont MuseJazz 10
+   vocalfont HobbitScript 13
+   musicspace   1.0cm
+   gchordfont HobbitScript 12
+   staffsep   45
+   maxshrink  0.65
+   measurenb 0
+   writefields BCDFGHNORSTWwXZ
+   
+   lineskipfac 1.1
+   textspace 0.2cm
+   textfont HobbitScript 10
