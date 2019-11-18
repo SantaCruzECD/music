@@ -53,12 +53,12 @@ K:Emaj clef=treble
 P:A
 g/2a/2 [||: "E"be ee|ef fg|gf/2g/2 "A"a/2g/2f/2e/2|"B"fB Bg/2a/2|
 "E"be ee|ef fg|"E"gf/2g/2 "A"a/2g/2f/2e/2 \
-|1 "B"f3 g/2a/2 :|2 "B"f3 d/2c'/2 |]
+|1 "B"f3 g/2a/2 :|2 "B"f3 d/2e/2 |]
 P:B
 [||: "B"fB BB|B3e/2f/2|"C#m"gc cc|c3f/2g/2|
 "B/D#"ad dg/2a/2|"E"be eg/2a/2|"A"c'a "B"d'b|"E"e'd'/2c'/2 ba|
 "E" gf/2e/2 "B"fe/2d/2|"E"ed/2c/2 "A"BA|"E"Ge "B"Fd \
-|1 "E"E3 d/2c'/2 :|2 "E"E3 g/2a/2 |]
+|1 "E"E3 d/2e/2 :|2 "E"E3 g/2a/2 |]
 
 X:5
 T:The Beggar Boy
@@ -80,8 +80,11 @@ T:Black Nag
 M:6/8
 L:1/8
 Q:1/4=320
+P:(AABB)3
 K:Bm clef=treble
+P:A
 F [||: "Bm"BFB "A"cBc | "Bm"dcd "F#m"cde | "Bm"fed "A"cBc | "Bm"B3- B2 B :|
+P:B
 [||: "F#m"cAF cAF | "F#m" cAF cAF | "Bm"fdB fdB | fdB fdB |
 "F#m"cAF cAF | cAF cde | "Bm"fed "A"cBc | "Bm"B3-B2 F :|
 
@@ -91,8 +94,10 @@ L:1/8
 K:Amaj clef=treble
 M:4/4
 M:6/8
+P:A
 |: "E"e2A e2e | "D"def "A"e2e | "D"fed "A"cBA | "E"B3 B2c |
 "D"dcB "A"A2 A | "E"EFG "A"A2 A | "A"edc "E"BcB | "A"A3 A2 A :|
+P:B
 |: "A"edc "E"B2B | "E"e^de "D"fe=d | "A"cdc "E"B2 E | "E"B3 B2 B |
 "D"G2 A B2 c | "A"dcB "E"A2 A | "E"cBc "A"ecB | "A"A3 A2 A :|
 
@@ -123,7 +128,7 @@ K:Gmaj clef=treble
 P:A
 [||:"Em"e2b2 a2g2 | "Am"f3e "B"^d2B2 | "Em"e2f2 g2g2 | "D"a2ga "G"b4 :|
 P:B
-[||: "G"b2bc' d'2c'b | "D"a2ab c'2ba | "G"b2b2 "Em"b2ag | "Am"a3g "Em"g4 | \
+[||: "G"b2bc' d'2c'b | "D"a2ab c'2ba | "G"b2b2 "Em"b2ag | "Am"a3g "Em"g4 |
 "G"b2c'b c'bag | "D"a2ba bagf | "Em"g2e2 "Am"e2a2 | "D"f3e "Em"e4 :|
 
 X:10
@@ -139,7 +144,7 @@ K:Dmaj clef=treble
 P:A
 [||: "Bm"B2f2 e2d2 | "Em"c3B "F#"^A2F2 | "Bm"B2c2 d2d2 | "A"e2de "D"f4 :|
 P:B
-[||: "D"f2fg a2gf | "A"e2ef g2fe | "D"f2f2 "Bm"f2ed | "Em"e3d "Bm"d4 | \
+[||: "D"f2fg a2gf | "A"e2ef g2fe | "D"f2f2 "Bm"f2ed | "Em"e3d "Bm"d4 |
 "D"f2gf gfed | "A"e2fe fedc | "Bm"d2B2 "Em"B2e2 | "A"c3B "Bm"B4 :|
 
 X:11
@@ -172,7 +177,7 @@ K:Amaj clef=treble
 |1,2 "F#m"f6 ab :|3 "F#m"f8 |]
 
 X:13
-T:Christ Church Bells.
+T:Christ Church Bells
 M:C
 L:1/8
 Q:1/2=100
@@ -182,12 +187,12 @@ O:England
 A:Wyresdale,Lancashire
 Z:vmp.Chris Partington, Aug 2004
 K:Dmaj clef=treble
-[||:d3dd2d2|d2d2d2f2|e2d2c2B2|A6A2|
-F2A2D2A2|d2G2A2ag|f2b2efg2|f3ed4:|
-[||:f3ff2f2|f3ff2a2|g2(fg)e2d2|
-e2A2e3e|f2e2e2(dc)|d2B2e2c2|d3ef4:|
-[||:aa aa a2 aa|a2aaa2A2|B3cd2e2|c6Bc|
-d2c2d2c2|d2e2c2BA|A2A2A3A|A6:|
+[||:"D"d3dd2d2|d2d2d2f2|"G"e2d2c2B2|"A"A6A2|
+"D"F2A2D2A2|"G"d2G2" A"A2ag|"G"f2b2 "A"efg2|"D"f3ed4:|
+[||:"D"f3ff2f2|f3ff2a2|"G"g2(fg)e2d2|
+"D"e2A2e3e|"G"f2e2 "A"e2(dc)|"(G)"d2B2 "A"e2c2|"D"d3ef4:|
+[||:"D"aa aa a2 aa|a2aaa2A2|"G"B3cd2e2|"A"c6Bc|
+"D"d2c2d2c2|"G"d2e2 "A"c2BA|"G"B2G2 "A"A3A|"D"D6:|
 
 X:14
 T:Confesse (his tune)
@@ -237,8 +242,8 @@ Z:Chris Partington.
 R:Duple Minor
 F:http://trillian.mit.edu/~jc/music/book/Playford/Country_Coll_1651_PLFD1_018_The_CP.abc	 2019-07-09 160608 UT
 K:Amaj clef=treble
-a2e aeA|c>de f2e|fga gab|eaf g2e:|
-|:f3e2c|def e2c|ae2 c>de|Bb2 c'2a:|
+"A"a2e aeA|"A"c>de "D"f2e|"D"fga "E"gab|"A"eaf "E"g2e:|
+|:"D"f3 "A"e2c|"D"def "A"e2c|"A"ae2 c>de|"E"Bb2 "A"c'2a:|
 
 X:17
 T:Cuckolds All In A Row
@@ -272,7 +277,7 @@ F:http://trillian.mit.edu/~jc/music/abc/jig/Sedauny-F-16-2.abc	 2019-07-09 16092
 K:Gmaj clef=treble
 P:A
 |:"G"B2G G2G | "(Em)"B2c d>cB | "Am"c2A A2A | "D7"c2d e>dc |
-| "G"B2G G2G | "Em" g2g f>ed | "Am"c2A A2A | "D7"a2g f>ed :|
+"G"B2G G2G | "Em" g2g f>ed | "Am"c2A A2A | "D7"a2g f>ed :|
 
 X:19
 T:Dargason
@@ -287,7 +292,7 @@ F:http://trillian.mit.edu/~jc/music/abc/jig/Sedauny-F-16-2.abc	 2019-07-09 16092
 K:Amaj clef=treble
 P:A
 |:"A"c2A A2A | "(F#m)"c2d e>dc | "Bm"d2B B2B | "E7"d2e f>ed |
-| "A"c2A A2A | "F#m" a2a g>fe | "Bm"d2B B2B | "E7"b2a g>fe :|
+"A"c2A A2A | "F#m" a2a g>fe | "Bm"d2B B2B | "E7"b2a g>fe :|
 
 X:20
 T:Dick's Maggot
@@ -451,6 +456,7 @@ M:6/8
 L:1/8
 S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
 Q:3/8=116
+P:(AABB)3
 K:Bmaj clef=treble
 P:A
 "B"Bf2 f2g | "B"f3 d3 | "E"Bcd "F#"c2B | "E"Bcd "F#7"c2B |
@@ -471,12 +477,12 @@ K:Am clef=treble
 P:A
 [||: "Am"A2AB c2BA | "G"B2Bc d2cB | "F"A2AB c2BA | "E7"e2e2 e4 :|
 P:B
-[||: "C"g2ed c3e | "G"d2BA G3B | "Am"c2BA "E"^GAB2 | "Am"c2B2B4 :|
+[||: "C"g2ed c3e | "G"d2BA G3B | "Am"c2BA "E"^GAB2 | "Am"c2A2A4 :|
 P:C
 [||: "Am"A2AB cBcA | "G"B2Bc dcdB | "F"AGAB cBcd \
 |1 "E7"e2e2 e4 :|2 "E7" e2e2e3 a |]
 P:D
-[||: "C"gfed c2 fe | "G"dcBA G2FE | "Am"abc'a "E"bc'db \
+[||: "C"gfed c2 fe | "G"dcBA G2FE | "Am"ABcA "E"BcdB \
 |1 c2A2A3 a :|2 c2A2A4 |]
 
 X:31
@@ -488,17 +494,17 @@ L:1/4
 P:(AABBCC)3
 K:Dmaj clef=treble
 P:A
-[||: "Em"ee/2f/2ge | "Bm"bBB2 | BB/2c/2dB | "Em"ee2e | \
+[||: "Em"ee/2f/2ge | "Bm"bBB2 | BB/2c/2dB | "Em"ee2e |
 "G"G>G"A"A>A | B/2c/2d/2c/2 B>B | c/2d/2e/2f/2gf | e4 :|
 P:B
-"Em"e/2f/2g/2a/2bb | "D"agb2 | "Em"eedc | "Bm"B4 || \
-"Bm"dBf2 | "Em"geg2 | "D"f>ga2 | "G"g4 || \
-"G"g2 fe | "D"d4 | "Bm"b2ag | f4 || \
+"Em"e/2f/2g/2a/2bb | "D"agf2 | "Em"eedc | "Bm"B4 |
+"Bm"dBf2 | "Em"geg2 | "D"f>ga2 | "G"g4 |
+"G"g2 fe | "D"d4 | "Bm"b2ag | f4 ]
 "E"^ggge | ^gabb | "A"c'c' "B"ba | "E"^g4 ||
 M:6/8
 L:1/8
 P:C
-[||: "Em"e>fg g>ab|"Bm"B3B2B| B>cd d>ef | "A"A3A2A | \
+[||: "Em"e>fg g>ab|"Bm"B3B2B| B>cd d>ef | "A"A3A2A |
 "G"G3e2f | "Em"g>ab/2a/2 gf2 |1 "Em"e3 e2 e :|2 "Em"e6 |]
 
 X:32
@@ -509,13 +515,12 @@ L:1/4
 M:C|
 P:(AB)4
 P:A
-[||:"E"eb"C#m"gg | "A"f/2g/2f/2e/2 "B"dB | "E"eb"C#m"gg | "F#m"ba/2g/2 "B"f2 \
-| "E"eb"C#m"gg | "A"f/2g/2f/2e/2 dB \
-| "A"e(d/2c'/2)"F#m"a(g/2f/2) | "B"d2 "E"e2 :|
+[||:"E"eb"C#m"gg | "A"f/2g/2f/2e/2 "B"dB | "E"eb"C#m"gg | "F#m"ba/2g/2 "B"f2 |
+"E"eb"C#m"gg | "A"f/2g/2f/2e/2 dB | "A"e(d/2c/2)"F#m"a(g/2f/2) | "B"d2 "E"e2 :|
 P:B
-[||:"B"d>efg | "(F#m)"agf(e/2d/2) | "A"ecab | "E"g2 F2 \
-| "E"b/2c'/2b/2a/2 gg | "A"ee c>g | "F#m" a(g/2f/2) "A"(e/2d/2)(e/2f/2) \
-| "B"f2 "E"e2 "^D.S. rit. last time.":|
+[||:"B"d>efg | "(F#m)"agf(e/2d/2) | "A"ecab | "E"g2 f2 |
+"E"b/2c'/2b/2a/2 gg | "A"ee c>g | "F#m" Sa(g/2f/2) "A"(e/2d/2)(e/2f/2) | \
+"B"f2 "E"e2 "^D.S. rit. last time.":|
 
 X:33
 T:Greenwood
@@ -525,11 +530,12 @@ M:6/8
 L:1/8
 P:(AB)4
 P:A
-[||:"G"g2g g2d | "Em"e2 e B3 | "C"c'>de e>fg | "D" a2g f2 e
+[||:"G"g2g g2d | "Em"e2 e B3 | "C"c>de e>fg | "D" a2g f2 e
 | "G" g2 g g2 d | "Em"e2dB2g | "D"f2e d>cB | "Am"c3 A3 :|
-[||: "Em"e2e g>fe | "D"d2B f2d | "C"e>fe g>fe | "B"b2B B3 :|
+[||: "Em"e2e g>fe | "Bm"d2B f2d | "Em"e>fe g>fe \
+|1 "Bm"b2B B2 d :|2 "Bm"b2B B2 e :|
 P:B
-[||: "D"D2b D>c'b | "C"cAA A2a | "B"BBB B>c'd \
+[||: "D"d2B d>cB | "C"cAA A2A | "B"BBB B>cd \
 |1 "Em"eEE E2 e \
 :|2 "Em"eEE E3 |]
 
@@ -542,12 +548,12 @@ M:6/8
 L:1/8
 P:(AB)4
 P:A
-[||:"A"a2a a2e | "F#m"f2 f c3 | "D"d'>ef f>ga | "E" b2a g2 f |
+[||:"A"a2a a2e | "F#m"f2 f c3 | "D"D>ef f>ga | "E" b2a g2 f |
 "A" a2 a a2 e | "F#m"f2ec2a | "E"g2f e>dc | "Bm"d3 B3 :|
 [||: "F#m"f2f a>gf | "E"e2c g2e | "D"f>gf a>gf \
-|1 "C#"c'2c c3 :|2 "C#"c'2c c2 f |] 
+|1 "C#"c'2c c2 e :|2 "C#"c'2c c2 f |] 
 P:B
-[||: "E"E2c' E>d'c' | "D"dBB B2b | "C#"ccc c>d'e \
+[||: "E"e2c e>dc | "D"dBB B2B | "C#"ccc c>de \
 |1 "F#m"fFF F2 f \
 :|2 "F#m"fFF F3 |]
 
@@ -559,8 +565,8 @@ L:1/8
 R:Jig
 P:(AAB)3
 K:Amaj clef=treble
-[||: "A"a2g a2e | "F#m"fga "E7"g2e | "A"cde "D"f2e | "Bm"dec "E7"B2"A"A
-| "A"a2e a2e | "F#m"f>ga "E7"g2e | "A"cde "D"f2e | "E7"d>cB "A"A3 :|
+[||: "A"a2g a2e | "F#m"fga "E7"g2e | "A"cde "D"f2e | "Bm"dec "E7"B2"A"A |
+"A"a2e a2e | "F#m"f>ga "E7"g2e | "A"cde "D"f2e | "E7"d>cB "A"A3 :|
 [||: "A"AAB cAB | cAB cA"(E)"E | "A"AAB cAB | "E7"cAB "A"A3 :|
 
 X:36
@@ -579,10 +585,8 @@ c/2d/2 | "A"ee "E"e>d | "A"c A2 d/2e/2 | \
 "Bm"Bc "E7"B>A | "A"A3 :|
 P:B
 L:1/8
-K:Em clef=treble
-|:"^Parson's Farewell" "Em"(g2e2) e2(fg) 
-%Error : Bar 10 is 7/4 not 2/2
-| "D"(a2d2) d3d |\
+K:Em
+|:"^Parson's Farewell" "Em"(g2e2) e2(fg) | "D"(a2d2) d3d |\
 "C"(ef)g2 f2e2 | [1 "B"(d2B2) B4 :| [2 "B"(d2B2) B2 b2 |]
 |: "G"g4 g2b2 | "Em"g4 g2b2 |\
 "G"(ga)b2 (ga)b2 | "D"a2f2 f4 |
@@ -599,9 +603,7 @@ A[||:"Am"A3/2B/2cB2A|"E"^G2AB2E|"Am"A2B"Dm"c2d|1"E"(e3e2)A:|2"E"(e3e2)e||
 [||:"G"Bcd d>ed | "Em"g2dd2B | "Am"c2B cd2 | "C"(e3e2)e |
 "Dm"d2c "G"B>cd | "Am"c2B "Em"eBc | "Dm"B2A "E"^G.FG \
 |1 "Am"(A3A2) e \
-:|2 "Am"(A3A2) A
-%Warning : No repeat expected, found :|
-:|
+:|2 "Am"(A3A2) A:|
 
 X:38
 T:Hide Parke
@@ -609,7 +611,7 @@ T:Hyde Park
 M:6/8
 L:1/8
 K:Emaj clef=treble
-P:(AABB)4
+P:(AABB)3
 P:A
 [||: "E"gab bge | "E"gab "B"f2e \
 | "E"gfg "A"abg/2a/2 | "B"bf>e "E"e3 :|
@@ -620,21 +622,19 @@ P:B
 "E"eef "A"gga | "B"bf>e e3 :|
 
 X:39
-T:If All The World Were Paper.
+T:If All The World Were Paper
 K:Dmaj clef=treble
 M:4/4
 M:4/4
 M:6/8
 L:1/8
-a [| "G"B2A "A"B2c | "D"d3 D2E | "(Bm)"F2E F2G | "F#m"A3-A2 F |
+a [||: "G"B2A "A"B2c | "D"d3 D2E | "(Bm)"F2E F2G | "F#m"A3-A2 F |
 "G"G2FG2A | "Em"B2G E2D | "A"c2A B2c |1 "D"(d3d2) A :|2 "D"(d3d2) D ||
 [||:"A"c2Bc2d | "A"e3A2A | "D"d2c d2e | "(Bm)"f3-f2 f |
-"G"g2fe2d | "C#"c2B A2e | "G"a2AB2c |1 "D"d3-d2 d :|2 "D"d3-d2 a 
-%Warning : No repeat expected, found :|
-:|
+"G"g2fe2d | "C#"c2B A2e | "G"a2AB2c |1 "D"d3-d2 d :|2 "D"d3-d2 a :|
 
 X:40
-T:If All The World Were Paper.
+T:If All The World Were Paper
 K:Amaj clef=treble
 M:4/4
 M:6/8
@@ -642,9 +642,7 @@ L:1/8
 e [||: "D"f2e "E"f2g | "A"a3 A2B | "(F#m)"c2B c2d | "C#m"e3-e2 c |
 "D"d2cd2e | "Bm"f2d B2a | "E"g2e f2g |1 "A"(a3a2)e :|2 "A"(a3a2) A ||
 [||:"E"G2FG2A | "E"B3E2E | "A"A2G A2B | "(F#m)"c3-c2 c |
-"D"d2cB2A | "G#"G2F E2B | "D"e2EF2G |1 "A"A3-A2 A :|2 "A"A3-A2 e 
-%Warning : No repeat expected, found :|
-:|
+"D"d2cB2A | "G#"G2F E2B | "D"e2EF2G |1 "A"A3-A2 A :|2 "A"A3-A2 e :|
 
 X:41
 T:Irish Lady
@@ -655,14 +653,11 @@ L:1/8
 P:A
 [||:"Em"efg fga | "D"d2d d2e | "D"f>gf/2e/2 d2f/2e/2 |1 "Bm"dBB B2B :|2 "Bm"dBB B2A ||
 P:B
-"Em"GGG GFE | "Em"ggg gfe | "Em" f2g a>gf/2g/2 |1 "Em" e2B e2B 
-%Warning : No repeat expected, found :|
-:|2 "Em" e2B e3 
-%Warning : No repeat expected, found :|
-:|
+"Em"GGG GFE | "Em"ggg gfe | "Em" f2g a>gf/2g/2 |1 "Em" e2B e2B :|2 "Em" e2B e3 :|
 
 X:42
-T:Jenny Pluck Pears.
+T:Jenny Pluck Pears
+P:(AAB)6
 K:Gmaj clef=treble
 M:4/4
 M:6/8
@@ -678,18 +673,15 @@ L:1/4
 "Am"Aed | "C"c>B A | "G"G>FG | "Am"A3 |]
 
 X:43
-T:Jenny Pluck Pears.
+T:Jenny Pluck Pears
+P:(AAB)6
 K:Amaj clef=treble
 M:4/4
 M:6/8
 L:1/8
 P:A
-[|
-%Error : Guitar chord name not properly closed
-Bm"B2A "A"C#>cd | "Bm"d>BA "Fm"A2E | \"
-"Bm"B2B "G"c>de 
-%Error : Bar 1 is 5/4 not 6/8
-| "Bm"d>cB "F#m"A2F |
+[|"Bm"B2B "A"c>de | "Bm"d>cB "F#m"A2F | \
+"Bm"B2B "G"c>de | "Bm"d>cB "F#m"A2F |
 "D"f2f "A"e2c | "Bm"d>cB "F#m"A2F | \
 "E"G>AB "F#m"A>GA | "Bm"B3 B3 :|
 M:3/4
@@ -704,12 +696,12 @@ M:4/4
 L:1/4
 K:Em clef=treble
 P:A
-B[||:"Em"Ee e/2d/2c/2B/2|"F#dim"cA FA | \
+B[||: "Em"Ee e/2d/2c/2B/2| "F#dim"cA FA | \
 "D"Dd d/2c/2B/2A/2 | "C"c/2B/2A/2G/2 "B"B/2A/2G/2F/2 |
 "Em"Ee e/2d/2c/2B/2 | "F#dim"cA FA | \
 "Em"BG "B"B,^D| "E"E3 B:|
 P:B
-[||:"Em"eb c'a/2b/2 | "C"c'/2b/2a/2g/2 "D"fd' | \
+[||: "Em"eb c'a/2b/2 | "C"c'/2b/2a/2g/2 "D"fd' | \
 "C" ec'2e | "B"^db2a/2b/2 |
 "C" c'/2b/2a/2g/2 "B" f/2e/2^d/2f/2| "B"B^d "Em"e B:|
 
@@ -719,8 +711,8 @@ K:Dmaj clef=treble
 M:4/4
 M:C|
 L:1/8
-[||:"D"fgag f2e2 | "Em"B2 g2 B2 g2 | "D"fgag f2e2 | "Em"B2 g2 e4 :|
-[||:"D"fgab a3 b | "Bm"a3 b a2 f2 | "Em"gab2b2^a2 | "B" b6 ga |
+[||: "D"fgag f2e2 | "Em"B2 g2 B2 g2 | "D"fgag f2e2 | "Em"B2 g2 e4 :|
+[||: "D"fgab a3 b | "Bm"a3 b a2 f2 | "Em"gab2b2^a2 | "B" b6 ga |
 "G"bagf efge | "Bm"f4 B4 | "Em"G2B2 "(Bm)"B2g2 | "Em" e8 :|
 
 X:46
@@ -740,12 +732,14 @@ M:6/8
 L:1/8
 Q:3/8=120
 K:Amaj clef=treble
-E | "A"Ace aga | edc "E"Bcd | "D"eac def | "A"ecA "E"BGE |
-"A"Ace aga | "E"edc Bcd | "D"eac dcB | "Bm"AFG "A"A2 :|
-c | "E"BGE GBe | "A"cBA cde | "E"abc' bge | "Bm"dec "E"BGE |
-"F#m"FGA "C#"BcB | "A"ABc "D"def | "E"eac "D"dcB | "Bm"AFG "A"A2 
-%Warning : No repeat expected, found :|
-:|
+P:A
+E [||: "A"Ace aga | edc "E"Bcd | "D"eac def | "A"ecA "E"BGE |
+"A"Ace aga | "E"edc Bcd | "D"eac dcB \
+|1 "Bm"AFG "A"A2 E :|2 "Bm"AFG "A"A2 c :|
+P:B
+"E"BGE GBe | "A"cBA cde | "E"abc' bge | "Bm"dec "E"BGE |
+"F#m"FGA "C#"BcB | "A"ABc "D"def | "E"eac "D"dcB \
+|1 "Bm"AFG "A"A2 c :|2 "Bm"AFG "A"A2 E |]
 
 X:47
 T:Love and a Bottle
@@ -755,11 +749,11 @@ M:4/4
 M:6/8
 L:1/8
 a/2^g/2\
-[||:"Am"a2e d2c | "Dm"BcA "E"^G2a/2^g/2 | \
+[||: "Am"a2e d2c | "Dm"BcA "E"^G2a/2^g/2 | \
 "Am"a2e d2c | "E"B3 "Am"A2 a/2^g/2 |
 "Am"a2e d2c | "Dm"BcA "E"^G2^g | \
 "Am"abc' "G"bag |1 ^f3 e2 a/2^g/2 :|2 f3 e2 e/2f/2 ||
-[||:"C"g>ag gc'g | "Am" g>ag g2g | \
+[||: "C"g>ag gc'g | "Am" g>ag g2g | \
 "Dm"abc' "F"bc'a | "E"^g3 e2e/2f/2 |
 "C"g>ag gfe | "Dm"fed "E"eab | \
 "Am"c'ba "E"a2^g |1 "Am"a3 a2 e/2f/2 :|2 "Am"a3 a2 a/2^g/2 |]
@@ -776,13 +770,11 @@ N:a song on this title entitled "Craigieburn Wood".
 K:Edor clef=treble
 P:A
 "Em"B2B g>fg | "D"a>ga "B"b3 | \
-"Em"B2B g>fe|"B"^d3 "Em"e3 :|
+"Em"B2B g>fe| "B"^d3 "Em"e3 :|
 P:B
 "G"g2g "D"a>ga | "G"b>c'b "D"a2d |\
 "G"g2g "D"a>ga | "Em"b3 "B"a3 |
-"G"b>c'b "D"a>gf | "Em"g>fe "B"b3 | "Em"SB2B g>fe | "B"^d3 "^D.S. rit. last time"e3 
-%Warning : No repeat expected, found :|
-:|
+"G"b>c'b "D"a>gf | "Em"g>fe "B"b3 | "Em"SB2B g>fe | "B"^d3 "^D.S. rit. last time"e3 :|
 
 X:49
 T:Mage on a Cree
@@ -801,11 +793,11 @@ T:Mayden Lane
 M:C|
 L:1/8
 K:Dmaj clef=treble
-[||:"A"e3d cBA2 | "A"a2^g2 "D"a2e2 | \
+[||: "A"e3d cBA2 | "A"a2^g2 "D"a2e2 | \
 "A"a2^g2 "D"a2ed | "E"c2B2 "A"A4 :|
-[||:"Bm"Bcde "D"f2B2 | "G"d2c2 "F#m"B2f2 |\
+[||: "Bm"Bcde "D"f2B2 | "G"d2c2 "F#m"B2f2 |\
 "Bm"f2f2f2 "A"ed | "Gm"cB"F#m"cd "Bm"B4 :|
-[||:"A"e2cd "F#m"e2cd | "(E)"edcB "A"c2A2 | \
+[||: "A"e2cd "F#m"e2cd | "(E)"edcB "A"c2A2 | \
 "A"e2cd "(D)"efed | "E"c2B2 "A"A4 :|
 
 X:51
@@ -813,16 +805,12 @@ T:Mayden Lane
 M:C|
 L:1/8
 K:Amaj clef=treble
-[|"E"B3A GFE2 | "E"e2^d2 "A"e2B2 | \
+[||: "E"B3A GFE2 | "E"e2^d2 "A"e2B2 | \
 "E"e2^d2 "A"e2BA | "B"G2F2 "E"E4 :|
-[|"F#m"FGAB "A"c2F2 | "D"A2G2 "C#m"F2c2 |\
-"F#m"c2c2c2 "E"BA | "Dm"GF"C#m"GA "F#m"F4 
-%Warning : No repeat expected, found :|
-:|
-[|"E"B2GA "C#m"B2GA | "(B)"BAGF "E"G2E2 | \
-"E"B2GA "(A)"BcBA | "B"G2F2 "E"E4 
-%Warning : No repeat expected, found :|
-:|
+[||: "F#m"FGAB "A"c2F2 | "D"A2G2 "C#m"F2c2 |\
+"F#m"c2c2c2 "E"BA | "Dm"GF"C#m"GA "F#m"F4 :|
+[||: "E"B2GA "C#m"B2GA | "(B)"BAGF "E"G2E2 | \
+"E"B2GA "(A)"BcBA | "B"G2F2 "E"E4 :|
 
 X:52
 T:The Merry Merry Milke Maids
@@ -837,7 +825,7 @@ d [||: "D"d>ed "A"A2a | "D"f3-f2d | \
 "G"G>AB/2c/2 "Bm/D"d2B | "A"e>dc/2B/2 A2a | \
 "D"f>ga "A"e2d | "D"d3-d2 d :|
 P:B
-[||:"D"f>ga "(A)"a>ba | "D"f>ga a>gf | \
+[||: "D"f>ga "(A)"a>ba | "D"f>ga a>gf | \
 "G"g2a "(A)"b2 c' | "D"d'3-d'2a |
 "D"d'2a "Bm"f>ga | "G"b2g "A"e>fg | \
 "D"a2f "Bm"d>ef | "G"e2c "A"A>Bc |
@@ -852,19 +840,17 @@ L:1/8
 K:Amaj clef=treble
 P:(AB)3
 P:A
-A [| "A"A>BA "E"E2e | "A"c3-c2A | \
+A [||: "A"A>BA "E"E2e | "A"c3-c2A | \
 "F#m"A>BA "C#dim"E2=G | "D"F3-F2D |
 "D"D>EF/2G/2 "F#m/A"A2F | "E"B>AG/2F/2 E2e | \
 "A"c>de "E"B2A | "A"A3-A2 A :|
 P:B
-[|"A"c>de "(E)"e>fe | "A"c>de e>dc | \
+[||: "A"c>de "(E)"e>fe | "A"c>de e>dc | \
 "D"d2e "(E)"f2 g | "A"a3-a2e |
 "A"a2e "F#m"c>de | "D"f2d "E"B>cd | \
 "A"e2c "F#m"A>Bc | "D"B2G "E"E>FG |
 "A"A2A "D"F>GA | "E"B2A G>FE | \
-"A"c>de "E"B2A | "A"A3-A2 A 
-%Warning : No repeat expected, found :|
-:|
+"A"c>de "E"B2A | "A"A3-A2 A :|
 
 X:54
 T:Mr. Beveridge's Maggot
@@ -875,12 +861,8 @@ P:A
 |: "Am"a4 "E"(^g3^f/2g/2) "Am"a4 | "Am"e2(dc) "E"(Bc)d2 "AM"c2A2 |\
 "C"c'4 "G"(b3a/2b/2) "C"c'4 | "C"g2(fe) "G"def2 "C"e2c2 :|
 P:B
-[|
-%Error : Guitar chord name not properly closed
-cc'"e2 g4 g2 g4 | "G7"d2 f#4 f#2 f#4 | \"
-"Am"c2 e4 e2 e2(dc) 
-%Error : Bar 6 is 21/8 not 3/2
-| "E"(Bc)d2 "Am"c2(BA) "E"^G2E2 |
+[|"C"e2 g4 g2 g4 | "G7"d2 f4 f2 f4 | \
+"Am"c2 e4 e2 e2(dc) | "E"(Bc)d2 "Am"c2(BA) "E"^G2E2 |
 "E"e2 b4 b2 b2e2 | "Am"c'2b2 "E"a2^g2 "Am"a4 |\
 "C"efg2 cde2 "E"Bcd2 | "Am"c2A2 "E"A3^G "Am"A4 |]
 
@@ -892,8 +874,8 @@ M:C|
 L:1/4
 P:A
 "A"ceAB | "A"A>B "E"AE | "A"ceAe | "D"fa2g/2f/2 |
-"A"ecBA | "D"Ff2e/2d/2 | "D"E "E"cB>A |1 "A"A4 :|2 "A"A3 f/2g/2 ||
-[||:"A"a/2g/2f/2e/2 a>c | "D"Ba2B | "A" A>B cG | "D"Ff2g | \
+"A"ecBA | "D"Ff2e/2d/2 | "D"e "E"cB>A |1 "A"A4 :|2 "A"A3 f/2g/2 ||
+[||: "A"a/2g/2f/2e/2 a>c | "D"Ba2B | "A" A>B cG | "D"Ff2g | \
 "A"a/2g/2f/2e/2 a>c | "Bm"BBd>e | "D"fc "E"B>A |1 "A"A3 f/2g/2 :|2 "A"A4 |]
 
 X:56
@@ -905,9 +887,9 @@ R:Jig
 P:(AABBB)3
 K:Emaj clef=treble
 P:A
-[||:"E"g2e b2g|"C#m"e2B eg2|"B"fa2 g>fe|"A"cef/2g/2 a2b:|
+[||: "E"g2e b2g| "C#m"e2B eg2| "B"fa2 g>fe| "A"cef/2g/2 a2b:|
 P:B
-[||:"A"c'c'a "E"bba|"A"g>fe "B"f2B|"E"eed "A"eeB|"B"gf2 e3 :|
+[||: "A"c'2a "E"b2a| "A"g>fe "B"f2B| "E"e2d "A"e2B| "B"gf2 e3 :|
 
 X:57
 T:The Night Peece
@@ -918,11 +900,9 @@ R:Jig
 P:(AABBB)3
 K:Amaj clef=treble
 P:A
-[|"A"c2A e2c|"F#m"A2E Ac2|"E"Bd2 c>BA|"D"FAB/2c/2 d2e:|
+[||: "A"c2A e2c| "F#m"A2E Ac2| "E"Bd2 c>BA| "D"FAB/2c/2 d2e:|
 P:B
-[|"D"ffd "A"eed|"D"c>BA "E"B2E|"A"AAG "D"AAE|"E"cB2 A3 
-%Warning : No repeat expected, found :|
-:|
+[||: "D"f2d "A"e2d| "D"c>BA "E"B2E| "A"A2G "D"A2E| "E"cB2 A3 :|
 
 X:58
 T:Parson's Farewell
@@ -932,7 +912,7 @@ Z:2004-2014 John Chambers <jc:trillian.mit.edu>
 M:2/2
 L:1/8
 K:Em clef=treble
-|:"Em"(g2e2) e2(fg) | "D"(a2d2) d3d |\
+|: "Em"(g2e2) e2(fg) | "D"(a2d2) d3d |\
 "C"(ef)g2 f2e2 | [1 "B"(d2B2) B4 :| [2 "B"(d2B2) B2 b2 |]
 |: "G"g4 g2b2 | "Em"g4 g2b2 |\
 "G"(ga)b2 (ga)b2 | "D"a2f2 f4 |
@@ -945,20 +925,14 @@ M:C|
 K:Em clef=treble
 L:1/4
 P:A
-[||:"Am"A2 a2 | "D"f3 e/2d/2 | "Am"c/2d/2edc | "G"BGG2 |
-"F"A2 a2 | "Em" e/2d/2 
-%Error : Bar 7 is 1/4 not 2/2
-| "Dm"b/2c'/2dc'b | "A"A4 :|
+[||: "Am"A2 a2 | "D"f3 e/2d/2 | "Am"c/2d/2edc | "G"BGG2 |
+"F"A2 a2 | "Em" e/2d/2 | "Dm"b/2c'/2dc'b | "A"A4 :|
 P:B
 L:1/8
-"G"B3 a/2b/2 "Am"c3b/2c'/2 | "G" d6c'd |
+"G"B3 a/2b/2 "Am"c3b/2c'/2 | "G" d6c'd | \
 "Am"edcB A2a2 | "E"^g4 e3f/2g/2 |
 "Am"a2e2 "G"=g2d2 | "F"c2e2 "Em"E2FG | \
-"Am"AGFE "G"D2d 
-%Error : Bar 16 is 7/8 not 2/2
-| "Am" c4 A4 
-%Warning : No repeat expected, found :|
-:|
+"Am"AGFE "G"D2d | "Am" c4 A4 :|
 
 X:60
 T:Picking of Sticks
@@ -970,19 +944,11 @@ M:6/8
 L:1/8
 P:A(Lavena)
 K:Em clef=treble
-[||: e 
-%Error : Bar 2 is 1/8 not 6/8
-| "Em"e2e "B7"^d>^cd | "Em"e2e B2B | "C"e2e "B7"^d>^cd | "Em"e3 B2=c | \
+[||: e | "Em"e2e "B7"^d>^cd | "Em"e2e B2B | "C"e2e "B7"^d>^cd | "Em"e3 B2=c | \
 "Am"c>ed "D7"c>dc | "G"B>cB "D"A>GF | "Em"G>AB "Am"A>BG | "B7"F3 "Em"E2 :|
 P:B(Picking Up Sticks)
 K:Bmaj clef=treble
-
-%Error : Bar 11 is 5/8 not 6/8
-[||: "B"f2f fgf | "E"e2c c2d | "F#"e2e efe |1,3 "B"d2B Bde :|2 "B"f2B B2f 
-%Warning : No repeat expected, found :|
-:|4 "B"f2B B2F 
-%Warning : No repeat expected, found :|
-:|
+[||: "B"f2f fgf | "E"e2c c2d | "F#"e2e efe |1,3 "B"d2B Bde :|2 "B"f2B B2f :|4 "B"f2B B2F :|
 P:C(Pop Goes the Weasel)
 [||: "B"B2B "F#"c2c | "B"dfd B2F | "B"B2B "F#"c2e | "B"d3 B2F | \
 "B"B2B "F#"c2c | "B"dfd B3 | "E"g3 "F#"c2e | "B"d3 B3 :|
@@ -992,15 +958,15 @@ P:D(Ring Around the Rosy)
 :|2 "C#m"def "F#"g2a | "B"b3 f3 |]
 
 X:61
-T:74. Portsmouth
+T:Portsmouth
 R:Hornpipe
 M:4/4
 L:1/8
 K:Amaj clef=treble
-[||:"A"A3B cBAG|"D"F4f4|"A"e2c2 "D"dcBA|"E"B6E2|
-"A"A3B cBAG|"D"F4f4|"A"e2c2 "E"dcBc|1"A"A6 E2:|2"A"A6 e2|]
-[||:"A"a3b c'bag|"F#m"a2e2c2e2|"A"a2c2 "D"dcBA|"E"B6 E2|
-"A"A3B cBAG|"D"F4f4|"A"e2c2 "E"dcBc|1"A"A6e2:|2"A"A6e2|]
+E2 [||: "A"A3B cBAG| "D"F4f4| "A"e2c2 "D"dcBA| "E"B6E2|
+"A"A3B cBAG| "D"F4f4| "A"e2c2 "E"dcBc|1"A"A6 E2:|2"A"A6 e2|]
+[||: "A"a3b c'bag| "F#m"a2e2c2e2| "A"a2c2 "D"dcBA| "E"B6 E2|
+"A"A3B cBAG| "D"F4f4| "A"e2c2 "E"dcBc|1"A"A6e2:|2"A"A6E2|]
 
 X:62
 T:Prince William
@@ -1011,27 +977,20 @@ K:Bmaj clef=treble
 [||: "B"B4 d2cB| "F#"c4 F2e2| "B"d4 "F#"c4| "B"BABc "G#m"B2c2|
 "B"d2B2 F2d2| "F#"c6 "F#-A"B2| "F#"A2f2 "C#7"G2^e2 \
 |1 "F#"f6 F2 :|2 \
-"F#"f6 de 
-%Warning : No repeat expected, found :|
-:|
+"F#"f6 de :|
 |: "B"f4 g3f| "F#"e2d2 c2f2| "B"e2d2 c2B2| "F#"ABcA F2GA|
 "B"B2AB "F#"c2Bc| "B"d2cd "F#"e2fe| "B"d2cB "F#"F2A2 \
-|1 "B"B4 B2 de :|2
-"B"B4 B2 F2 
-%Warning : No repeat expected, found :|
-:|
+|1 "B"B4 B2 de :|2 "B"B4 B2 F2 :|
 
 X:63
 T:Round About our coal fire
 L:1/8
 M:9/8
 K:Amix clef=treble
-|:A
-%Error : Bar 1 is 1/8 not 9/8
-|"G"B3/2c/2d d3/2e/2d "D"d2A|"G"B3/2c/2d d>cB "A"c2c|
-"G"dBB B>AG Bcd|"A"e2d c2B A2:|
-|:b|"D"a2g f2e d2b|afd d>ef "Em"g2 f|
-"G"g2B B>AG B>cd|"A"e2d c2B A2:|
+|:A| "G"B3/2c/2d d3/2e/2d "D"d2A| "G"B3/2c/2d d>cB "A"c2c|
+"G"dBB B>AG Bcd| "A"e2d c2B A2:|
+|:b| "D"a2g f2e d2b|afd d>ef "Em"g2 f|
+"G"g2B B>AG B>cd| "A"e2d c2B A2:|
 
 X:64
 T:Rufty tufty
@@ -1039,6 +998,7 @@ M:C|
 L:1/4
 Q:1/4=180
 B:The Round Band Book of Playford
+P:(A2B2C2)3
 K:Amaj clef=treble
 [||: "E"e2 ef | "E"g2 fg | "A"aa "B7"g>f |1 e4 :|2 e3 f/2g/2 |]
 [||: "A"ag fe | "E7"ed "A"c>d | "A"ee "Bm"dc \
@@ -1056,9 +1016,7 @@ P:A
 F | "Bm" B/2c/2 d "A" c/2d/2 e | "D" d2 "E" d e | \
 "D" f/2g/2 a "E" g> f | "F#" f3 f/2g/2 |
 "F#m" a g/2f/2 "A" e e/2f/2 | "Em" =g f/2e/2 "Bm" d d/2e/2 | \
-"D" f e/2d/2 "F#" c > B |  [1 "B" B3 :|  [2 "B" B4 
-%Error : Bar 9 is 7/4 not 2/2
-||
+"D" f e/2d/2 "F#" c > B |  [1 "B" B3 :|  [2 "B" B4 ||
 P:B
 |: "A" c "(D)" f "A" c "(Bm)" d | \
 "F#m" c > B A/2G/2 F | \
@@ -1067,9 +1025,7 @@ P:B
 "A" a e/2f/2 "Em" =g d/2e/2 | \
 "D" f c/2d/2 "A" e d/2e/2 | \
 "D" f e/2d/2 "F#" c > B | \
- [1 "B" B4 :|  [2 "B" B3 
-%Error : Bar 19 is 3/4 not 2/2
-|]
+ [1 "B" B4 :|  [2 "B" B3 |]
 
 X:66
 T:Saturday night and Sunday morn
@@ -1079,11 +1035,9 @@ R:Jig
 P:(AABB)3
 K:Emaj clef=treble
 P:A
-g|"E"gfe a2B|"Bm"fff f2a|"E"gfe a2B|"A"eee e2:|
+g| "E"gfe a2B| "Bm"fff f2a| "E"gfe a2B| "A"eee e2:|
 P:B
-d|"A"c>BA "E"GFE|"Bm"fff f2d|"Bm"c>BA "E"GFE|"A"eee e2
-%Warning : No repeat expected, found :|
-:|
+d| "A"c>BA "E"GFE| "Bm"fff f2d| "Bm"c>BA "E"GFE| "A"eee e2:|
 
 X:67
 T:Saturday night and Sunday morn
@@ -1093,11 +1047,9 @@ R:Jig
 P:(AABB)3
 K:Amaj clef=treble
 P:A
-c [|"A"cBA d2E|"Em"BBB B2d|"A"cBA d2E|1"D"AAA A2c :|2 "D"AAA A2g |]
+c [||: "A"cBA d2E| "Em"BBB B2d| "A"cBA d2E|1"D"AAA A2c :|2 "D"AAA A2g |]
 P:B
-[|"D"f>ed "A"cBA|"Em"bbb b2g|"Em"f>ed "A"cBA |1 "D"aaa a2g |2 "D"aaa a2c
-%Warning : No repeat expected, found :|
-:|
+[||: "D"f>ed "A"cBA| "Em"bbb b2g| "Em"f>ed "A"cBA |1 "D"aaa a2g |2 "D"aaa a2c:|
 
 X:68
 T:Scotch Cap
@@ -1109,9 +1061,7 @@ L:1/8
 K:Edor clef=treble
 P:A
 |: "Em"E2E e2e | "D"f2e d2B | "A"c2e c2B \
-|1 "A"c3 e3 :|2 "A"c2 e2 e/2f/2 
-%Error : Bar 5 is 5/8 not 6/8
-||
+|1 "A"c3 e3 :|2 "A"c2 e2 e/2f/2 ||
 P:B
 |: "Em"g2B B2 e/2f/2 | "G"g2B B2 e/2f/2 | \
 "Em"g2B B2G | "G"B3 e3 |
@@ -1126,13 +1076,9 @@ K:Dmaj clef=treble
 [||: "A"A3 A>Bc | "D"d3 d>ef | "G"e2d "A"c>Bc | "D"d6 |
 "A"A2A A>Bc | "D" d3 "Bm"d>ef | \
 "Em"e2d "A"c>Bc | "D" d3-d2 e |]
-[|
-%Error : Expecting repeat, found |:
-|: "Bm"f3 f>ed | "Em"e3 e2e | "A"c>de e>dc | "E"B3 e2c |
+[||: "Bm"f3 f>ed | "Em"e3 e2e | "A"c>de e>dc | "E"B3 e2c |
 "D"d>ed "A"c2A | "E7"B>cd "A"c2A | "D"B2A "E7"^GFG \
-|1 "A"A3-A2 e :|2 "A"A3-A3 
-%Warning : No repeat expected, found :|
-:|
+|1 "A"A3-A2 e :|2 "A"A3-A3 :|
 X:70
 T:Step Stately
 M:6/4
@@ -1140,22 +1086,14 @@ L:1/4
 Q:1/4=100
 B:The Round Band Book of Playford
 K:Am clef=treble
-E 
-%Error : Bar 37 is 1/4 not 6/4
-| "Am"A2 A "G"B2 G | "Fm"c A2 "Em"d2 B |\
+E | "Am"A2 A "G"B2 G | "Fm"c A2 "Em"d2 B |\
 "Am"e c2 "Dm"B2 A | "Am"A3-A2 E |\
 "Dm"A2 A "G7"B2 G | "Am"c A2 "Dm"d2 B |\
-"C"e c2 "G"B2 A | "Am"A3-A2 
-%Error : Bar 45 is 5/4 not 6/4
-||
-a 
-%Error : Bar 46 is 1/4 not 6/4
-| "G"g e2 "F"f2 d | "C"e c2 "G"d2 B |\
+"C"e c2 "G"B2 A | "Am"A3-A2 ||
+a | "G"g e2 "F"f2 d | "C"e c2 "G"d2 B |\
 "Am"c A2 "G"B G2 | "C"c3-c2 c |\
 "G"d B2 "E"e2 B | "E"^G E2 "Am"c2 "Dm"d |\
-"F"e c2 "G"d B2 | "Am"A3-A2 
-%Error : Bar 54 is 5/4 not 6/4
-|]
+"F"e c2 "G"d B2 | "Am"A3-A2 |]
 
 X:71
 T:Stingo
@@ -1168,10 +1106,10 @@ M:6/8
 K:Am clef=treble
 P:(AABB)3
 P:A
-[||:"Am"A2Ae2c|"G"dB2G2G|"Am"A2Ae2c|"G"A3c3 :|
+[||: "Am"A2Ae2c| "G"dB2G2G| "Am"A2Ae2c| "G"A3c3 :|
 P:B
-[||: "C"c2cc2B/2c/2|"G"d2dd2d|"C"e2e "G"a2a | "C"e3 "G"g3 |
-"C"c2cc2B/2c/2|"G"d2dd3/2e/2f|"F#v"e3/2d/2c "G"dB2|"Am"A3c3:|
+[||: "C"c2cc2B/2c/2| "G"d2dd2d| "C"e2e "G"a2a | "C"e3 "G"g3 |
+"C"c2cc2B/2c/2| "G"d2dd3/2e/2f| "F#v"e3/2d/2c "G"dB2| "Am"A3c3:|
 
 X:72
 T:Twenty-Ninth of May
@@ -1179,7 +1117,7 @@ L:1/4
 M:4/4
 K:Emaj clef=treble
 P:A
-[||:"E"bg "A"ag | "B"f/2e/2d/2c/2 B f/2g/2 | \
+[||: "E"bg "A"ag | "B"f/2e/2d/2c/2 B f/2g/2 | \
 "A"ac "B"dc/2d/2 \
 |1 "E"eBG F/2E/2 :|2 "E"e3 B |]
 "E"GBBA/2B/2 | "A"Acc>c | "B"d/2e/2f d/2e/2f | "B"dc/2d/2 Be/2f/2 |
@@ -1195,9 +1133,7 @@ M:4/4
 L:1/8
 K:Amaj clef=treble
 P:A
-|: cd 
-%Error : Bar 1 is 1/4 not 4/4
-| "A"e2e2 "E7"e3d | "A"c2A2A2de | "D"f2d2d2cd | "A"e2c2c2A2 | "Bm"B2A2 "E7"B2AB | "A"c2A2A2 :|
+|: cd | "A"e2e2 "E7"e3d | "A"c2A2A2de | "D"f2d2d2cd | "A"e2c2c2A2 | "Bm"B2A2 "E7"B2AB | "A"c2A2A2 :|
 P:B
 |: GA | "E"B2B2B3A | "E"G2E4B2 | "E7"G2E4e2 | "A"c2A4de | "D"f2d2de f2 | "A"e2c4GA |
 "E"B2B2BcBA | "E"G2E4B2 | "E7"G2E4e2 | "A"c2A4dc | "Bm"B2A2 "E7"G3A | "A"A6 :|
@@ -1208,14 +1144,39 @@ M:3/2
 L:1/4
 A:England
 K:Dmaj clef=treble
-|:"Bm"f2 B2 b2|"A"a/2b/2 c' "F#"f ^a "Bm"b2|"D"f a/2g/2 f a f d|
-"A"e a2 e c A|"D"d f "G"g2 f g|"A"e4 "D"d2:|
-"D"f d2 f a f|"A"e c2 e a e|"Bm"d f B d E B|"F#"^A3 B c2|
-"Bm"d f2 c d B |"C#"^g c'2 g "F#"^a f|"Bm"b f "Em"g/2f/2 e "Bm"f/2e/2 d|"F#"d3 c "Bm"B2
-%Warning : No repeat expected, found :|
-:|
+|: "Bm"f2 B2 b2| "A"a/2b/2 c' "F#"f ^a "Bm"b2| "D"f a/2g/2 f a f d|
+"A"e a2 e c A| "D"d f "G"g2 f g| "A"e4 "D"d2:|
+"D"f d2 f a f| "A"e c2 e a e| "Bm"d f B d E B| "F#"^A3 B c2|
+"Bm"d f2 c d B | "C#"^g c'2 g "F#"^a f| "Bm"b f "Em"g/2f/2 e "Bm"f/2e/2 d| "F#"d3 c "Bm"B2:|
 
 X:75
+T:Whirligig
+M:6/8
+L:1/8
+K:Cmaj clef=treble
+P:A
+[||: "Am"aaa c'ba| "Em"g2e g2g| "Am"aaa c'ba| "Em"gee e2a:|
+[||: "C"g2f gfe| "Dm"fdd def| "Em"eee efg| "Am"aAA A2a:|
+
+X:76
+T:Whirligig
+M:6/8
+L:1/8
+K:Dmaj clef=treble
+P:A
+[||: "Bm"bbb d'c'b| "F#m"a2f a2a| "Bm"bbb d'c'b| "F#m"aff f2b:|
+[||: "D"a2g agf| "Em"gee efg| "F#m"fff fga| "Bm"bBB B2b:|
+
+X:77
+T:Whirligig
+M:6/8
+L:1/8
+K:Gmaj clef=treble
+P:A
+[||: "Em"eee gfe| "Bm"d2B d2d| "Em"eee gfe| "Bm"dBB B2e:|
+[||: "G"d2c dcB| "Am"cAA ABc| "Bm"BBB Bcd| "Em"eEE E2e:|
+
+X:78
 T:Wibsey Roundabout
 T:to the tune "Hugh O'Donnell"
 P:Hugh O'Donnell
@@ -1225,51 +1186,18 @@ B:"Complete Collection ... of CAROLAN" Ossian
 M:6/8
 L:1/8
 K:Dmaj clef=treble
+P:A
 A \
 | "D"A2d ded | "A"c2d e2g | "Bm"f2B BdB | "A"e2A AcA \
 | "D"d2A "G"dcB | "A"A3 a3 | "D"fdf fdf | "G"g3 b3 |
-| "D"a>ba "Bm"fdf | "Em"g>ag "A"ece | "D"f>gf "Bm"dBd | "G"e>fe "A"cAc \
+"D"a>ba "Bm"fdf | "Em"g>ag "A"ece | "D"f>gf "Bm"dBd | "G"e>fe "A"cAc \
 | "D"d2A "G"dcB | "A"A3 a3 | "G"gfe "A"dec | "D"d3 d3 ||
+P:B
 d \
-
-%Error : Bar 18 is 1/8 not 6/8
 | "D"a2d a2d | "G"bag "D"fed | "A"cee efe | cee efe \
 | "Bm"dff fgf | Bcd "A"cBA | "Bm"Bcd "A"cde | "G"Bcd "A"ecA |
-| "D"a2a "G"b2b | "A"c'2c' "D"d'3 | "D"d'2a "G"d'2g | "D"d'2f "A"ee'd' \
-| "A"c'ba aba | agf eag | "D"fed "A"edc | "D"d3 d2 
-%Error : Bar 35 is 5/8 not 6/8
-|]
-
-X:76
-T:Whirligig
-M:6/8
-L:1/8
-K:Cmaj clef=treble
-P:A
-[||:"Am"aaa c'ba|"Em"g2e g2g|"Am"aaa c'ba|"Em"gee e2a:|
-[||:"C"g2f gfe|"Dm"fdd def|"Em"eee efg|"Am"aAA A2a:|
-
-X:77
-T:Whirligig
-M:6/8
-L:1/8
-K:Dmaj clef=treble
-P:A
-[|"Bm"bbb d'c'b|"F#m"a2f a2a|"Bm"bbb d'c'b|"F#m"aff f2b:|
-[|"D"a2g agf|"Em"gee efg|"F#m"fff fga|"Bm"bBB B2b
-%Warning : No repeat expected, found :|
-:|
-
-X:78
-T:Whirligig
-M:6/8
-L:1/8
-K:Gmaj clef=treble
-P:A
-[|"Em"eee gfe|"Bm"d2B d2d|"Em"eee gfe|"Bm"dBB B2e:|
-[|"G"d2c dcB|"Am"cAA ABc|"Bm"BBB Bcd|"Em"eEE E2e
-%Warning : No repeat expected, found :|
-:|
+"D"a2a "G"b2b | "A"c'2c' "D"d'3 | "D"d'2a "G"d'2g | "D"d'2f "A"ee'd' \
+| "A"c'ba aba | agf eag | "D"fed "A"edc | "D"d3 d2 |]
 
 X:79
 T:Wibsey Roundabout
@@ -1281,16 +1209,16 @@ B:"Complete Collection ... of CAROLAN" Ossian
 M:6/8
 L:1/8
 K:Amaj clef=treble
-E | "A"E2A ABA | "E"G2A B2d | "F#m"c2F FAF | "E"B2E EGE \
+P:A
+E \
+| "A"E2A ABA | "E"G2A B2d | "F#m"c2F FAF | "E"B2E EGE \
 | "A"A2E "D"AGF | "E"E3 e3 | "A"cAc cAc | "D"d3 f3 |
-| "A"e>fe "F#m"cAc | "Bm"d>ed "E"BGB | "A"c>dc "F#m"AFA | "D"B>cB "E"GEG \
-| "A"A2E "D"AGF | "E"E3 e3 | "D"dcB "E"ABG | "A"A3 A3 ||
-A \
-
-%Error : Bar 18 is 1/8 not 6/8
+"A"e>fe "F#m"cAc | "Bm"d>ed "E"BGB | "A"c>dc "F#m"AFA | "D"B>cB "E"GEG \
+| "A"A2E "D"AGF | "E"E3 e3 | "D"dcB "E"ABG \
+|1 "A"A3 A2 E :|2 "A"A3 A2 A |]
+P:B
 | "A"e2A e2A | "D"fed "A"cBA | "E"GBB BcB | GBB BcB \
 | "F#m"Acc cdc | FGA "E"GFE | "F#m"FGA "E"GAB | "D"FGA "E"BGE |
-| "A"e2e "D"f2f | "E"g2g "A"a3 | "A"a2e "D"a2d | "A"a2c "E"Bba \
-| "E"gfe efe | edc Bed | "A"cBA "E"BAG | "A"A3 A2 
-%Error : Bar 35 is 5/8 not 6/8
-|]
+"A"e2e "D"f2f | "E"g2g "A"a3 | "A"a2e "D"a2d | "A"a2c "E"Bba \
+| "E"gfe efe | edc Bed | "A"cBA "E"BAG |1 "A"A3 A2 A :|2 "A"A3 A2 E |]
+

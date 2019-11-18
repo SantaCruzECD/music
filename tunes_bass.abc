@@ -1,0 +1,1224 @@
+X:1
+T:Apley House
+O:1703
+B:Barnes v.1 p.4
+M:C
+L:1/8
+R:Duple Minor
+K:Gmaj clef=bass
+P:A
+[||:"G"B,,2G,,2 B,,C,D,2 | "C"E,2C,2 "D"A,,2C,2 | \
+"G"B,,2G,,2 G,2G,,2 | "G"B,,4 "(D)"D,4 :|
+P:B
+[||:"D"F,2A,2 B,A,G,F, | "A"E,2G,2 G,2F,E, | \
+"D"F,2A,2 "G"B,A,G,F, | "A"E,4 "D"D,4 :|
+P:C
+[||: "C"E,2C,2 C,D,E,C, | "G"D,2B,,2 B,,C,D,B,, | \
+"G"G,2G,,2 "Em"G,,2A,,2 | "G" B,,4 "D"D,4 :|
+
+X:2
+T:Argeers
+T:The Wedding Night
+P:(AABC)3
+M:C|
+L:1/8
+K:Dmaj clef=bass
+P:A
+[||: "D"D,E,F,G, "(G)"E,2D,2|"A"C,2A,,2A,,4|\
+"A"A,2E,2 "G"A,3G,|"D" F,2D,2D,4|
+"D" D,E,F,G, "(G)"E,2D,2|"A"C,3D,E,2A,,2| \
+"G"B,,C,D,2 "A"C,D,E,F,|"D"D,8:|
+P:B
+[||: "A"C,D,E,2C,D,E,2|A,2E,2A,2E,2|C,D,E,2C,D,E,2|A,2E,2A,2E,2|
+"D"A,2G,F, "G"G,2A,G,| "G"F,2E,D, "A"E,3A,,|"G"B,,C,D,E, "A"C,D,E,F,|"D"D,8:|
+
+X:3
+T:The Ashford Anniversary
+M:2/2
+L:1/4
+P:(AABB)6
+K:Gmaj clef=bass
+P:A
+|: "G" G,, G,, A,, G,, | "G" G,, D,, "D" D,, E,,/2F,,/2 | "G" G,, G,, A,, G,, | "D" D,,2 D,,2 :|
+P:B
+|: "G" B,, B,, B,, A,,/2B,,/2 | "C" C, B,, A,, G,, | "G" B,, B,, B,, A,,/2B,,/2 | "C" C, B,, "D" A,, C, |\
+"G" B,, G,, "D" A,, G,,/2F,,/2 | "G" G,,2 G,,2 :|
+
+X:4
+T:Barbarini's Tambourine
+M:2/4
+L:1/8
+Z:Alf Warnock - alf.warnock@rogers.com
+K:Dmaj clef=bass
+P:A
+F,/2G,/2 [||: "D"A,D, D,D,|D,E, E,F,|F,E,/2F,/2 "G"G,/2F,/2E,/2D,/2|"A"E,A,, A,,F,/2G,/2|
+"D"A,D, D,D,|D,E, E,F,|"D"F,E,/2F,/2 "G"G,/2F,/2E,/2D,/2 \
+|1 "A"E,3 F,/2G,/2 :|2 "A"E,3 C,/2D,/2 |]
+P:B
+[||: "A"E,A,, A,,A,,|A,,3D,/2E,/2|"Bm"F,B,, B,,B,,|B,,3E,/2F,/2|
+"A/C#"G,C, C,F,/2G,/2|"D"A,D, D,F,/2G,/2|"G"B,G, "A"CA,|"D"DC/2B,/2 A,G,|
+"D" F,E,/2D,/2 "A"E,D,/2C,/2|"D"D,C,/2B,,/2 "G"A,,G,,|"D"F,,D, "A"E,,C, \
+|1 "D"D,,3 C,/2D,/2 :|2 "D"D,,3 F,/2G,/2 |]
+
+X:5
+T:The Beggar Boy
+S:via BBBM, from 'Dancing Master', 1651
+L:1/8
+M:6/8
+F:http://rudy-rucker.mit.edu/~jc/music/abc/mirror/BruceOlson/BM0.ABC	 2019-01-11 010533 UT
+P:(AAB)3
+K:Aphr clef=bass
+P:A
+[||: "Dm" A,,A,,A,,F,2F,|"Am"E,C,2 "Dm"D,2C,|"F"A,,F,,2 "Gm"G,,2G,,|"Dm"A,,2B,, "Am"C,A,,2:|
+P:B
+[||: "Dm"A,,A,,A,,F,2F,|"Am"E,C,2 "Dm"D,2C,|"F"A,,C,2 "C"E,D,E,|"F"F,A,,2 "C"G,,3|
+"F"A,,C,C, "Dm"E,3/2D,/2C,|"Dm"D,F,G,/2F,/2 "C"E,F,D,|\
+"F"C,A,,F,, "Gm"G,,2G,,|"Dm"A,,2B,, "Am"C,A,,2:|
+
+X:6
+T:Black Nag
+M:6/8
+L:1/8
+Q:1/4=320
+P:(AABB)3
+K:Am clef=bass
+P:A
+E,, [||: "Am"A,,E,,A,, "G"B,,A,,B,, | "Am"C,B,,C, "Em"B,,C,D, | "Am"E,D,C, "G"B,,A,,B,, | "Am"A,,3- A,,2 A,, :|
+P:B
+[||: "Em"B,,G,,E,, B,,G,,E,, | "Em" B,,G,,E,, B,,G,,E,, | "Am"E,C,A,, E,C,A,, | E,C,A,, E,C,A,, |
+"Em"B,,G,,E,, B,,G,,E,, | B,,G,,E,, B,,C,D, | "Am"E,D,C, "G"B,,A,,B,, | "Am"A,,3-A,,2 E,, :|
+
+X:7
+T:Boatman
+L:1/8
+K:Gmaj clef=bass
+M:4/4
+M:6/8
+P:A
+|: "D"D,2G,, D,2D, | "C"C,D,E, "G"D,2D, | "C"E,D,C, "G"B,,A,,G,, | "D"A,,3 A,,2B,, |
+"C"C,B,,A,, "G"G,,2 G,, | "D"D,,E,,F,, "G"G,,2 G,, | "G"D,C,B,, "D"A,,B,,A,, | "G"G,,3 G,,2 G,, :|
+P:B
+|: "G"D,C,B,, "D"A,,2A,, | "D"D,^C,D, "C"E,D,=C, | "G"B,,C,B,, "D"A,,2 D,, | "D"A,,3 A,,2 A,, |
+"C"F,,2 G,, A,,2 B,, | "G"C,B,,A,, "D"G,,2 G,, | "D"B,,A,,B,, "G"D,B,,A,, | "G"G,,3 G,,2 G,, :|
+
+X:8
+T:Bobbing Joe
+C:John Playford, 1651
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=120
+M:6/8
+P:(AB)3
+K:Am clef=bass
+P:A
+[||: "Am"A,,2E, E,2D, | "C"E,>F,G, "G"B,,>A,,G,, | "Am"A,,2B,, "E7"C,>D,B,, | "Am"A,,E,2 A,,3 :|
+P:B
+[||: "G"B,,D,2 G,,3 | "G"B,,D,2 G,,2G,, | "Am"A,,2B,, "F"C,>B,,A,, | "Am"C,>D,E, A,,3 :|
+
+X:9
+T:Chestnut
+T:Dove's Figary
+O:england
+M:C|
+L:1/8
+Q:1/4=180
+B:The Round Band Book of Playford
+P:(AABB)3
+K:Fmaj clef=bass
+P:A
+[||:"Dm"D,2A,2 G,2F,2 | "Gm"E,3D, "A"^C,2A,,2 | "Dm"D,2E,2 F,2F,2 | "C"G,2F,G, "F"A,4 :|
+P:B
+[||: "F"A,2A,B, C2B,A, | "C"G,2G,A, B,2A,G, | "F"A,2A,2 "Dm"A,2G,F, | "Gm"G,3F, "Dm"F,4 |
+"F"A,2B,A, B,A,G,F, | "C"G,2A,G, A,G,F,E, | "Dm"F,2D,2 "Gm"D,2G,2 | "C"E,3D, "Dm"D,4 :|
+
+X:10
+T:Chestnut
+T:Dove's Figary
+O:england
+M:C|
+L:1/8
+Q:1/4=180
+B:The Round Band Book of Playford
+P:(AABB)3
+K:Cmaj clef=bass
+P:A
+[||: "Am"A,,2E,2 D,2C,2 | "Dm"B,,3A,, "E"^G,,2E,,2 | "Am"A,,2B,,2 C,2C,2 | "G"D,2C,D, "C"E,4 :|
+P:B
+[||: "C"E,2E,F, G,2F,E, | "G"D,2D,E, F,2E,D, | "C"E,2E,2 "Am"E,2D,C, | "Dm"D,3C, "Am"C,4 |
+"C"E,2F,E, F,E,D,C, | "G"D,2E,D, E,D,C,B,, | "Am"C,2A,,2 "Dm"A,,2D,2 | "G"B,,3A,, "Am"A,,4 :|
+
+X:11
+T:Child Grove
+M:2/2
+L:1/8
+Q:1/4=112
+O:Playford's Dancing Master, England
+K:Fmaj clef=bass
+[||: "Dm"A,,2D,2 D,2E,2 | "Dm"F,4 E,2D,2 | "Gm"G,2F,2 E,2D,2 | "Am"E,3D, C,B,,A,,2 |
+"Dm"A,,2D,2 D,2E,2 | "Dm"F,4 "C"E,2A,2 | "Gm"G,3F, "A7"E,F,E,D, \
+|1 "Dm" D,8 :|2 "Dm" D,6 F,G, |]
+[||: "F"A,2F,2 F,2A,2 | "C"G,2E,2 E,2G,2 | "Dm"F,2D,2 D,E,F,D, | "A7"E,2 A,,4 F,G, |
+"F"A,2F,2 F,2A,2 | "Gm"G,3F, E,F,G,E, | "Dm" F,2E,D, "A7"E,2D,^C, \
+|1,2 "Dm" D,6 F,G, :|2 "Dm" D,8 |]
+
+X:12
+T:Child Grove
+M:2/2
+L:1/8
+Q:1/4=112
+O:Playford's Dancing Master, England
+P:(AABBB)
+K:Gmaj clef=bass
+[||: "Em"B,,2E,2 E,2F,2 | "Em"G,4 F,2E,2 | "Am"A,2G,2 F,2E,2 | "Bm"F,3E, D,C,B,,2 |
+"Em"B,,2E,2 E,2F,2 | "Em"G,4 "D"F,2B,2 | "Am"A,3G, "B7"F,G,F,E, \
+|1 "Em" E,8 :|2 "Em"E,6 G,A, ||
+[||: "G"B,2G,2 G,2B,2 | "D"A,2F,2 F,2A,2 | "Em"G,2E,2 E,F,G,E, | "B7"F,2 B,,4 G,A, |
+"G"B,2G,2 G,2B,2 | "Am"A,3G, F,G,A,F, | "Em" G,2F,E, "B7"F,2E,^D, \
+|1,2 "Em"E,6 G,A, :|3 "Em"E,8 |]
+
+X:13
+T:Christ Church Bells
+M:C
+L:1/8
+Q:1/2=100
+C:"in Oxon - Oxford"
+B:James Winder Ms, Lancashire, 1835-41
+O:England
+A:Wyresdale,Lancashire
+Z:vmp.Chris Partington, Aug 2004
+K:Cmaj clef=bass
+[||:"C"C,3C,C,2C,2|C,2C,2C,2E,2|"F"D,2C,2B,,2A,,2|"G"G,,6G,,2|
+"C"E,,2G,,2C,,2G,,2|"F"C,2F,,2" G"G,,2G,F,|"F"E,2A,2 "G"D,E,F,2|"C"E,3D,C,4:|
+[||:"C"E,3E,E,2E,2|E,3E,E,2G,2|"F"F,2(E,F,)D,2C,2|
+"C"D,2G,,2D,3D,|"F"E,2D,2 "G"D,2(C,B,,)|"(F)"C,2A,,2 "G"D,2B,,2|"C"C,3D,E,4:|
+[||:"C"G,G, G,G, G,2 G,G,|G,2G,G,G,2G,,2|"F"A,,3B,,C,2D,2|"G"B,,6A,,B,,|
+"C"C,2B,,2C,2B,,2|"F"C,2D,2 "G"B,,2A,,G,,|"F"A,,2F,,2 "G"G,,3G,,|"C"C,,6:|
+
+X:14
+T:Confesse (his tune)
+T:The Court Lady
+M:6/8
+L:1/8
+Q:1/4=105
+B:The Round Band Book of Playford
+P:(AABB)3
+K:Bbmaj clef=bass
+P:A
+[||: "Gm"G,,2A,, B,,2C, | "Gm"D,2D, D,2D, | \
+"Cm"E,3 D,2D, | "Eb"G,3 "D"^F,3 :|
+P:B
+[||: "F"A,2F, "Gm"B,2G, | "Dm"A,F,2 "Gm"D,2E, | \
+"Bb"F,D,2 "Cm"C,2D, | "F7"D,C,2 "Bb"D,3 |
+"Gm"B,,2C, "Dm"D,>E,D, | "Cm"E,D,2 "F"C,3 | \
+"Gm"D,2G, "Cm"^F,2G, | "D7"A,^F,2 "Gm"G,3 :|
+
+X:15
+T:Confesse (his tune)
+T:The Court Lady
+M:6/8
+L:1/8
+Q:1/4=105
+B:The Round Band Book of Playford
+P:(AABB)3
+K:Gmaj clef=bass
+P:A
+[||: "Em"E,,2F,, G,,2A,, | "Em"B,,2B,, B,,2B,, | \
+"Am"C,3 B,,2B,, | "C"E,3 "B"^D,3 :|
+P:B
+[||: "D"F,2D, "Em"G,2E, | "Bm"F,D,2 "Em"B,,2C, | \
+"G"D,B,,2 "Am"A,,2B,, | "D7"B,,A,,2 "G"B,,3 |
+"Em"G,,2A,, "Bm"B,,>C,B,, | "Am"C,B,,2 "D"A,,3 | \
+"Em"B,,2E, "Am"^D,2E, | "B7"F,^D,2 "Em"E,3 :|
+
+X:16
+T:The Country Coll
+T:Sir Nicholas Culley
+M:6/4
+L:1/4
+Q:3/4=90
+S:Playford, Dancing Master,1st Ed.,1651.
+O:England;London
+Z:Chris Partington.
+R:Duple Minor
+F:http://trillian.mit.edu/~jc/music/book/Playford/Country_Coll_1651_PLFD1_018_The_CP.abc	 2019-07-09 160608 UT
+K:Gmaj clef=bass
+"G"G,2D, G,D,G,,|"G"B,,>C,D, "C"E,2D,|"C"E,F,G, "D"F,G,A,|"G"D,G,E, "D"F,2D,:|
+|:"C"E,3 "G"D,2B,,|"C"C,D,E, "G"D,2B,,|"G"G,D,2 B,,>C,D,|"D"A,,A,2 "G"B,2G,:|
+
+X:17
+T:Cuckolds All In A Row
+M:6/4
+L:1/4
+Q:3/4=100
+B:Playford, Dancing Master,1st Ed.,1651.
+O:England;London
+R:Duple Minor
+Z:Chris Partington <www.cpartington.plus>
+P:(AABB)3
+K:Gmaj clef=bass
+P:A
+[||: "D"A,2 A, A,2 G,|"D"F,2 G, A,2 D,|"C"E,2E, "D"F,>E,F, \
+| [1 "G"G,6:| [2 "G"G,3-G,2 B,, ||
+P:B
+[||:"C"C,D,C, "G"B,,>A,,B,,|"D"A,,2A,, F,E,F,|"G"G,2 D, "C"E, D,2|"G"B,,3 G,,>A,,B,,|
+"C"C,>D,C, "G"B,,>A,,B,,|"D"A,,2A,, F,E,F,|"G"G,2D, "C"E,D,2 \
+|1 "G"B,,3 G,,2 B,, :|2 "G"B,,3 G,,3 |]
+
+X:18
+T:Dargason
+T:Sebany
+O:Playford 1651
+B:Playford "Dancing Master" 1st Ed. 1651
+M:6/8
+L:1/8
+P:(A)3
+R:Jig
+F:http://trillian.mit.edu/~jc/music/abc/jig/Sedauny-F-16-2.abc	 2019-07-09 160927 UT
+K:Fmaj clef=bass
+P:A
+|:"F"A,,2F,, F,,2F,, | "(Dm)"A,,2B,, C,>B,,A,, | "Gm"B,,2G,, G,,2G,, | "C7"B,,2C, D,>C,B,, |
+"F"A,,2F,, F,,2F,, | "Dm" F,2F, E,>D,C, | "Gm"B,,2G,, G,,2G,, | "C7"G,2F, E,>D,C, :|
+
+X:19
+T:Dargason
+T:Sebany
+O:Playford 1651
+B:Playford "Dancing Master" 1st Ed. 1651
+M:6/8
+L:1/8
+P:(A)3
+R:Jig
+F:http://trillian.mit.edu/~jc/music/abc/jig/Sedauny-F-16-2.abc	 2019-07-09 160927 UT
+K:Gmaj clef=bass
+P:A
+|:"G"B,,2G,, G,,2G,, | "(Em)"B,,2C, D,>C,B,, | "Am"C,2A,, A,,2A,, | "D7"C,2D, E,>D,C, |
+"G"B,,2G,, G,,2G,, | "Em" G,2G, F,>E,D, | "Am"C,2A,, A,,2A,, | "D7"A,2G, F,>E,D, :|
+
+X:20
+T:Dick's Maggot
+S:Playford
+R:Duple Minor
+M:3/2
+K:Gmaj clef=bass
+[||: "G"G,2D,4B,,2-"D7"B,,2A,,2|"G"B,,C,D,2"D7"A,,B,,C,2"G"B,,4|\
+"G"G,2D,4B,,2-"C"B,,2A,,2|"Am"B,,C,D,2"D7"G,,2F,,2"G"G,,4 :|
+[||: "D"F,2A,4F,4D,2|"G"G,A,B,2"A7"E,F,G,2"D"F,4|"F#m"F,2A,4F,2-"Bm"F,2D,2|"Em"D,E,F,2"A7"A,,B,,^C,2"D7"D,4|
+"G"B,,C,D,2"G7/f"B,,C,D,2"C/e"E,4|"Am"E,F,G,2"Am7/g"E,F,G,2"D7/f+"F,4|"G"G,2D,4B,,2-"C"B,,2C,2|\
+"Am"A,,4-"D7"A,,4"G"G,,4:|
+
+X:21
+T:The Doldrum
+M:6/8
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=120
+P:(AABB)3A
+K:Cmaj clef=bass
+P:A
+G,, [||: "C"C,2C, C,B,,C, | "G"D,2D, D,E,F, | "C"G,E,C, "G"B,,A,,G,, | "C"C,2C, C,2G,, |
+"Am"C,2C, C,B,,C, | "Dm"D,2D, D,E,F, | "C"G,E,C, "G"B,,A,,G,, \
+|1 "C"C,2C, C,2 G,, :|2 "C"C,2C, C,2 E,/2F,/2 |]
+P:B
+[||: "C"G,2G, E,C,E, | "Dm"D,2D, "G"B,,G,,B,, | \
+"C"G,2G, E,C,E, | "G"D,3- D,2 E,/2F,/2 |
+"C"G,2G, E,C,E, | "Dm"D,2D, "G"B,,G,,B,, | \
+"C"G,E,C, "G"B,,A,,G,, |1 "C"C,3-C,2 E,/2F,/2 \
+:|2 "C"C,6 |]
+
+X:22
+T:The Duke of Kent's Waltz
+R:waltz
+Z:2003 John Chambers &lt;jc@trillian.mit.edu&gt;
+M:3/4
+L:1/8
+P:(AAB)
+K:Gmaj clef=bass
+P:A
+[||: "G"G,F, G,A, G,2 | "D7"F,2 D,E, F,D, | "G"G,2 G,,2 G,,2 | G,,4 D,2 |
+"C"E,2 E,2 F,2 | "G"G,2 D,2 B,,2 | "Am"C,2 C,2 B,,2 | "D7"B,,2 A,,4 :|
+P:B
+[|"D"D,,2 C,B,, C,2 | "G"B,,D, C,B,, A,,G,, | "D"D,,2 C,B,, C,2 | "G"B,,D, C,B,, A,,G,, |
+"C"E,D, C,D, E,F, | "G"G,F, E,D, C,B,, | "Am"E,D, C,B,, A,,G,, | "D7"F,,A,, G,,F,, E,,D,, |
+"G"G,,F,, G,,A,, B,,C, | "D"D,^C, D,E, F,D, | "Em"G,2 G,,2 G,,2 | G,,4 E,2 |
+"C"^D,2 E,2 E,2 | "G"^C,2 D,2 D,2 | "D7"C,2 A,,2 F,,2 | "G" |]
+
+X:23
+T:Epping Forest
+C:John Playford 1670
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=120
+P:(AABBCC)3
+M:6/8
+L:1/8
+K:Gdor clef=bass
+P:A
+[||: "Bb"D,2D, "F"C,>B,,A,, | "Gm"B,,>A,,G,, "D"^F,,2E, | "Bb"F,>E,D, "C"C,2B,, | "F"A,,3- A,,2D, |\
+"Dm"F,>E,D, "Am"C,2A,, | "Gm"B,,>A,,G,, "D"^F,,2D,, | "C"E,,>^F,,G,, "D"G,,2F,, | "Gm"G,,3-G,,2 B,,/2C,/2 :|
+P:B
+[||: "Bb"D,3 "F"C,3 | "Gm"B,,3- B,,2D,/2E,/2 | "Dm"F,3 "A"E,3 \
+|1 "D"D,3- D,2 B,,/2C,/2 :|2 "D"D,3-D,2 D, ||
+P:C
+[||: "Bb"D,>E,D, "F"C,>B,,A,, | "Gm"B,,>A,,G,, "D"^F,,2D,, | "C"E,,>^F,,G,, "D"G,,2F,,
+|1 "Gm"G,,3- G,,2 D, :|2 "Gm"G,,6 |]
+
+X:24
+T:Faine I Would (if I could)
+T:The King's Complaint
+T:Parthenia
+M:6/8
+P:(AB)3
+L:1/8
+K:Cdor clef=bass
+P:A
+[||: "Gm" G,3 "D" ^F,3|"Gm" G,3 B,3|"Cm" A,2G, G,>A,G,|"F" F,3-F,2 D,/2E,/2|
+"Bb" F,>G,F, E,D,2|"F" C,3 "Bb" D,3|"Eb" C,2B,, B,,>"F"C,A,, \
+|1 "Bb" B,,6 :|2 "Bb" B,,3-B,,2 F,,||
+P:B
+[||: "F" F,,2G,, A,,2B,,|C,3-C,2 A,,|"Bb" D,2C, B,,>C,D,/2E,/2|"F (Dm)" F,3-F,>G,F,|
+"C" E,D,2 C,2B,,|"F" A,,3 "Gm" B,3|"Cm" A,2D, "D"G,>A,^F, \
+|1 "Gm"G,3-G,2 F,, :|2 "Gm"G,3-G,2 F,,|]
+
+X:25
+T:The Fandango
+M:6/8
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=120
+K:Dmaj clef=bass
+P:A
+|: "D"D,2D, D,C,D, | "G"B,,2G,, "A"F,,G,,A,, | "D"D,2D, D,3 | "D"F,D,A, "A7"F,2D, |
+"D"D,2D, D,C,D, | "G"B,,2G,, "A"F,,G,,A,, | "Bm"D,2D, "Em"D,2G, | "A7"E,2A, "D"F,2D, :|
+P:B
+|: "D"A,B,A, F,2D, | "D"A,,F,,D, A,,F,,D, | "D"A,B,A, F,2D, | "G"B,,G,,D, B,,G,,D, |
+"D"A,B,A, "D7"F,2D, | "G"B,,2G,, "D"F,,2A,, | "Em"B,,2D, "A7"E,2C, | "D"D,6 :|
+
+X:26
+T:Fenterlarick
+C:tune: Fred Grimshaw
+C:dance: Joyce Walker
+B:Barnes p.33
+Z:1998 by John Chambers <jc@trillian.mit.edu>
+M:2/4
+L:1/8
+F:http://trillian.mit.edu/~jc/music/abc/England/NancysFancy.abc	 2019-07-09 162027 UT
+K:Cmaj clef=bass
+P:A
+G,, [||: "C"C,G, -G,C, | B,,>A,, G,,G,, | "C"C,C, "G7"D,E,/2F,/2 | "C"E,2 "G7"D,G,, |
+"C"C,G, -G,C, | B,,>A,, G,,F, | "F"E,D,/2C,/2 "G7"G,,B,, \
+|1 "C"C,3 G,, :|2 "C"C,4 |]
+P:B
+[||: "Am"C,E,-E,A,, | "E7"C,>B,, "Am"A,,A,, | \
+C,C, "Dm"D,E,/2F,/2 | "C"E,2 "G7"D,G,, | \
+"C"C,E,- E,G, | "Dm"F,>E, D,E, |
+"F"F,A,- A,C | "G7"B,>A, G,G, | \
+"C"CG,- G,F, | E,>F, G,G, | \
+"F"A,F,- F,E, | "Dm"D,2- "G7"D,G,, |
+"C"C,G,,- G,,C, | "G7"B,,>C, D,G,, | "F"A,,C,- "G7"C,B,, | "C"C,4 :|
+
+X:27
+T:The Fine Companion
+C:John Playford, 1651
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=120
+M:6/8
+K:Dm clef=bass
+P:A
+[||: "Dm"D,2F, D,D,A, | "Am"C,>D,E, "Dm"F,>E,D, | "F"A,2G, A,A,G, | "C"A,E,2 E,2D, |
+"Am"E,E,E, E,2D, | "Am"C,>D,E, A,,2E, | "Dm"F,2D, "C"C,D,E, \
+|1 "Dm"D,3 F,3 :|2 "Dm"D,3 F,2 D, |]
+P:B
+[||: "F"C,A,,A,, "C"E,2D, | "Am"C,A,,B,, A,,2E, | "Dm"F,D,E, "Bb"F,D,E, | "F"F,3 "C"G,3 |
+"Dm"A,A,A, "C"C,>D,E, | "Dm"F,F,E, F,D,A, | "Am"C,C,D, E,C,A,, \
+|1 "Dm"D,3 F,2 D, :|2 "Dm"D,3 F,3 |]
+
+X:28
+T:Gathering Peascods
+M:C|
+L:1/4
+Q:1/4=120
+B:The Round Band Book of Playford
+P:(AABBCC)3
+K:Gmaj clef=bass
+P:A
+G,, [||: "G"D,2D,D, | "G"B,,>C,D,D, | "C"E,D,C,B,, | "D"A,,3B,, | "G"A,,G,, "D7"G,,F,, | "G"G,,3 G,, :|
+P:B
+[||: "D"F,,D,,F,,G,, | "D"A,,2B,,A,, | "G"G,,/2A,,/2B,, "A7"A,,G,, | \
+"G"F,,3F,, | "Em"E,,D,, "A7"E,,>D,, |1 "G"D,,3 G,, :|2 "G"D,,3 D, |]
+P:C
+[||: "G"B,,G,,G,, A,,/2B,,/2 | "C"C,3C, | "G"B,,G,,G,, A,,/2B,,/2 | "C"C,3C, | \
+"G"B,,G,,G,, A,,/2B,,/2 | "C"C,>D,E, D,/2C,/2 | "G"B,, C,/2B,,/2 "D7"A,,>G,, \
+|1 "G"G,,3 D, :|2 "G"G,,3 G,, |]
+
+X:29
+T:The Geud Man of Ballangigh
+M:6/8
+L:1/8
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=116
+P:(AABB)3
+K:Amaj clef=bass
+P:A
+"A"A,,E,2 E,2F, | "A"E,3 C,3 | "D"A,,B,,C, "E"B,,2A,, | "D"A,,B,,C, "E7"B,,2A,, |
+"A"A,,E,2 E,2F, | "A"E,3 C,3 | "D"A,,B,,C, "E7"B,,2A,, | "A"A,,3- A,,3 :|
+P:B
+|: "D"D,2E, F,E,D, | "D/C#"D,2E, F,E,D, | "Bm"D,2E, F,2G, | "F#m"A,3- A,2G,/2F,/2 |
+"A"E,C,2 E,C,2 | "C#m"E,C,2 E,3 | "D"A,,B,,C, "E7"B,,2A,, | "A"A,,3- A,,3 :|
+
+X:30
+T:Goddesses
+C:John Playford 1651
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/2=120
+M:2/2
+L:1/8
+P:(AABBCCDD)5AB
+K:Gm clef=bass
+P:A
+[||: "Gm"G,,2G,,A,, B,,2A,,G,, | "F"A,,2A,,B,, C,2B,,A,, | "Eb"G,,2G,,A,, B,,2A,,G,, | "D7"D,2D,2 D,4 :|
+P:B
+[||: "Bb"F,2D,C, B,,3D, | "F"C,2A,,G,, F,,3A,, | "Gm"B,,2A,,G,, "D"^F,,G,,A,,2 | "Gm"B,,2G,,2G,,4 :|
+P:C
+[||: "Gm"G,,2G,,A,, B,,A,,B,,G,, | "F"A,,2A,,B,, C,B,,C,A,, | "Eb"G,,F,,G,,A,, B,,A,,B,,C, \
+|1 "D7"D,2D,2 D,4 :|2 "D7" D,2D,2D,3 G, |]
+P:D
+[||: "Bb"F,E,D,C, B,,2 E,D, | "F"C,B,,A,,G,, F,,2E,,D,, | "Gm"G,,A,,B,,G,, "D"A,,B,,C,A,, \
+|1 B,,2G,,2G,,3 G, :|2 B,,2G,,2G,,4 |]
+
+X:31
+T:Graies Inn Mask
+T:Gray's Inn Mask
+T:Mad Tom
+M:2/2
+L:1/4
+P:(AABBCC)3
+K:Cmaj clef=bass
+P:A
+[||: "Dm"D,D,/2E,/2F,D, | "Am"A,A,,A,,2 | A,,A,,/2B,,/2C,A,, | "Dm"D,D,2D, |
+"F"F,,>F,,"G"G,,>G,, | A,,/2B,,/2C,/2B,,/2 A,,>A,, | B,,/2C,/2D,/2E,/2F,E, | D,4 :|
+P:B
+"Dm"D,/2E,/2F,/2G,/2A,A, | "C"G,F,E,2 | "Dm"D,D,C,B,, | "Am"A,,4 |
+"Am"C,A,,E,2 | "Dm"F,D,F,2 | "C"E,>F,G,2 | "F"F,4 |
+"F"F,2 E,D, | "C"C,4 | "Am"A,2G,F, | E,4 ]
+"D"^F,F,F,D, | ^F,G,A,A, | "G"B,B, "A"A,G, | "D"^F,4 ||
+M:6/8
+L:1/8
+P:C
+[||: "Dm"D,>E,F, F,>G,A,|"Am"A,,3A,,2A,,| A,,>B,,C, C,>D,E, | "G"G,,3G,,2G,, |
+"F"F,,3D,2E, | "Dm"F,>G,A,/2G,/2 F,E,2 |1 "Dm"D,3 D,2 D, :|2 "Dm"D,6 |]
+
+X:32
+T:The Great Uffington White Horse
+K:Dmaj clef=bass
+M:4/4
+L:1/4
+M:C|
+P:(AB)4
+P:A
+[||:"D"D,A,"Bm"F,F, | "G"E,/2F,/2E,/2D,/2 "A"C,A,, | "D"D,A,"Bm"F,F, | "Em"A,G,/2F,/2 "A"E,2 |
+"D"D,A,"Bm"F,F, | "G"E,/2F,/2E,/2D,/2 C,A,, | "G"D,(C,/2B,,/2)"Em"G,(F,/2E,/2) | "A"C,2 "D"D,2 :|
+P:B
+[||:"A"C,>D,E,F, | "(Em)"G,F,E,(D,/2C,/2) | "G"D,B,,G,A, | "D"F,2 E,2 |
+"D"A,/2B,/2A,/2G,/2 F,F, | "G"D,D, B,,>F, | "Em" SG,(F,/2E,/2) "G"(D,/2C,/2)(D,/2E,/2) | \
+"A"E,2 "D"D,2 "^D.S. rit. last time.":|
+
+X:33
+T:Greenwood
+K:Fmaj clef=bass
+M:4/4
+M:6/8
+L:1/8
+P:(AB)4
+P:A
+[||:"F"F,2F, F,2C, | "Dm"D,2 D, A,,3 | "Bb"B,,>C,D, D,>E,F, | "C" G,2F, E,2 D,
+| "F" F,2 F, F,2 C, | "Dm"D,2C,A,,2F, | "C"E,2D, C,>B,,A,, | "Gm"B,,3 G,,3 :|
+[||: "Dm"D,2D, F,>E,D, | "Am"C,2A,, E,2C, | "Dm"D,>E,D, F,>E,D, \
+|1 "Am"A,2A,, A,,2 C, :|2 "Am"A,2A,, A,,2 D, :|
+P:B
+[||: "C"C,2A,, C,>B,,A,, | "Bb"B,,G,,G,, G,,2G,, | "A"A,,A,,A,, A,,>B,,C, \
+|1 "Dm"D,D,,D,, D,,2 D, \
+:|2 "Dm"D,D,,D,, D,,3 |]
+
+X:34
+T:Greenwood
+K:Gmaj clef=bass
+M:4/4
+M:4/4
+M:6/8
+L:1/8
+P:(AB)4
+P:A
+[||:"G"G,2G, G,2D, | "Em"E,2 E, B,,3 | "C"C,,>D,E, E,>F,G, | "D" A,2G, F,2 E, |
+"G" G,2 G, G,2 D, | "Em"E,2D,B,,2G, | "D"F,2E, D,>C,B,, | "Am"C,3 A,,3 :|
+[||: "Em"E,2E, G,>F,E, | "D"D,2B,, F,2D, | "C"E,>F,E, G,>F,E, \
+|1 "B"B,2B,, B,,2 D, :|2 "B"B,2B,, B,,2 E, |] 
+P:B
+[||: "D"D,2B,, D,>C,B,, | "C"C,A,,A,, A,,2A,, | "B"B,,B,,B,, B,,>C,D, \
+|1 "Em"E,E,,E,, E,,2 E, \
+:|2 "Em"E,E,,E,, E,,3 |]
+
+X:35
+T:Grimstock
+O:Cecil Sharp, 1911
+M:6/8
+L:1/8
+R:Jig
+P:(AAB)3
+K:Gmaj clef=bass
+[||: "G"G,2F, G,2D, | "Em"E,F,G, "D7"F,2D, | "G"B,,C,D, "C"E,2D, | "Am"C,D,B,, "D7"A,,2"G"G,, |
+"G"G,2D, G,2D, | "Em"E,>F,G, "D7"F,2D, | "G"B,,C,D, "C"E,2D, | "D7"C,>B,,A,, "G"G,,3 :|
+[||: "G"G,,G,,A,, B,,G,,A,, | B,,G,,A,, B,,G,,"(D)"D,, | "G"G,,G,,A,, B,,G,,A,, | "D7"B,,G,,A,, "G"G,,3 :|
+
+X:36
+T:The Health
+T:The Merry Wasel
+T:The Merry Wassail
+M:C|
+L:1/4
+Q:1/4=180
+B:The Round Band Book of Playford
+K:Gmaj clef=bass
+P:A
+B,,/2C,/2 | "G"D,D, "D"D,>C, | "G"B,, G,,2 C,/2D,/2 | \
+"C"E,E, B,,>C, | "D4"D,3 "D"A,,/2B,,/2 | \
+"C"C,C, "D7"B,,A,, | "G"B,,2 "D7"A,,"G"G,, | \
+"Am"A,,B,, "D7"A,,>G,, | "G"G,,3 :|
+P:B
+L:1/8
+K:Dm
+|:"^Parson's Farewell" "Dm"(F,2D,2) D,2(E,F,) | "C"(G,2C,2) C,3C, |\
+"Bb"(D,E,)F,2 E,2D,2 | [1 "A"(C,2A,,2) A,,4 :| [2 "A"(C,2A,,2) A,,2 A,2 |]
+|: "F"F,4 F,2A,2 | "Dm"F,4 F,2A,2 |\
+"F"(F,G,)A,2 (F,G,)A,2 | "C"G,2E,2 E,4 |
+"Gm"(E,F,)G,2 (E,F,)G,2 | "Dm"F,2D,2 "C"(D,E,)F,G, |\
+"Bb"A,2G,F, "A"(E,D,)E,2 | [1 "Dm"D,6 A,2 :| [2 "Dm"D,8 |]
+
+X:37
+T:Heart's Ease
+Q:1/4=120
+L:1/8
+M:6/8
+K:Gdor clef=bass
+G,,[||:"Gm"G,,3/2A,,/2B,,A,,2G,,|"D"^F,,2G,,A,,2D,,|"Gm"G,,2A,,"Cm"B,,2C,|1"D"(D,3D,2)G,,:|2"D"(D,3D,2)D,||
+[||:"F"A,,B,,C, C,>D,C, | "Dm"F,2C,C,2A,, | "Gm"B,,2A,, B,,C,2 | "Bb"(D,3D,2)D, |
+"Cm"C,2B,, "F"A,,>B,,C, | "Gm"B,,2A,, "Dm"D,A,,B,, | "Cm"A,,2G,, "D"^F,,.E,,F,, \
+|1 "Gm"(G,,3G,,2) D, \
+:|2 "Gm"(G,,3G,,2) G,,:|
+
+X:38
+T:Hide Parke
+T:Hyde Park
+M:6/8
+L:1/8
+K:Dmaj clef=bass
+P:(AABB)3
+P:A
+[||: "D"F,G,A, A,F,D, | "D"F,G,A, "A"E,2D, \
+| "D"F,E,F, "G"G,A,F,/2G,/2 | "A"A,E,>D, "D"D,3 :|
+P:B
+[||: "A"E,>F,E, E,C,A,, | "A"A,,B,,C, C,D,E, | \
+"D"D,E,F, F,G,A, | "A"A,G,A, "D"F,>E,D, |
+| "A"E,F,G, G,>A,G, | "A"E,F,G, E,>D,C, |\
+"D"D,D,E, "G"F,F,G, | "A"A,E,>D, D,3 :|
+
+X:39
+T:If All The World Were Paper
+K:Cmaj clef=bass
+M:4/4
+M:4/4
+M:6/8
+L:1/8
+G, [||: "F"A,,2G,, "G"A,,2B,, | "C"C,3 C,,2D,, | "(Am)"E,,2D,, E,,2F,, | "Em"G,,3-G,,2 E,, |
+"F"F,,2E,,F,,2G,, | "Dm"A,,2F,, D,,2C,, | "G"B,,2G,, A,,2B,, |1 "C"(C,3C,2) G,, :|2 "C"(C,3C,2) C,, ||
+[||:"G"B,,2A,,B,,2C, | "G"D,3G,,2G,, | "C"C,2B,, C,2D, | "(Am)"E,3-E,2 E, |
+"F"F,2E,D,2C, | "B"B,,2A,, G,,2D, | "F"G,2G,,A,,2B,, |1 "C"C,3-C,2 C, :|2 "C"C,3-C,2 G, :|
+
+X:40
+T:If All The World Were Paper
+K:Gmaj clef=bass
+M:4/4
+M:6/8
+L:1/8
+D, [||: "C"E,2D, "D"E,2F, | "G"G,3 G,,2A,, | "(Em)"B,,2A,, B,,2C, | "Bm"D,3-D,2 B,, |
+"C"C,2B,,C,2D, | "Am"E,2C, A,,2G, | "D"F,2D, E,2F, |1 "G"(G,3G,2)D, :|2 "G"(G,3G,2) G,, ||
+[||:"D"F,,2E,,F,,2G,, | "D"A,,3D,,2D,, | "G"G,,2F,, G,,2A,, | "(Em)"B,,3-B,,2 B,, |
+"C"C,2B,,A,,2G,, | "F#"F,,2E,, D,,2A,, | "C"D,2D,,E,,2F,, |1 "G"G,,3-G,,2 G,, :|2 "G"G,,3-G,,2 D, :|
+
+X:41
+T:Irish Lady
+K:Fmaj clef=bass
+M:4/4
+M:6/8
+L:1/8
+P:A
+[||:"Dm"D,E,F, E,F,G, | "C"C,2C, C,2D, | "C"E,>F,E,/2D,/2 C,2E,/2D,/2 |1 "Am"C,A,,A,, A,,2A,, :|2 "Am"C,A,,A,, A,,2G,, ||
+P:B
+"Dm"F,,F,,F,, F,,E,,D,, | "Dm"F,F,F, F,E,D, | "Dm" E,2F, G,>F,E,/2F,/2 |1 "Dm" D,2A,, D,2A,, :|2 "Dm" D,2A,, D,3 :|
+
+X:42
+T:Jenny Pluck Pears
+P:(AAB)6
+K:Fmaj clef=bass
+M:4/4
+M:6/8
+L:1/8
+P:A
+[|"Gm"G,,2G,, "F"A,,>B,,C, | "Gm"B,,>A,,G,, "Dm"F,,2D,, | \
+"Gm"G,,2G,, "Eb"A,,>B,,C, | "Gm"B,,>A,,G,, "Dm"F,,2D,, |
+"Bb"D,2D, "F"C,2A,, | "Gm"B,,>A,,G,, "Dm"F,,2D,, | \
+"C"E,,>F,,G,, "Dm"F,,>E,,F,, | "Gm"G,,3 G,,3 :|
+M:3/4
+L:1/4
+"Gm"G,,D,C, | "F"B,,2 A,, | "Gm"G,,D,C, | "F"B,,2 A,, | \
+"Gm"G,,D,C, | "Bb"B,,>A,, G,, | "F"F,,>E,,F,, | "Gm"G,,3 |]
+
+X:43
+T:Jenny Pluck Pears
+P:(AAB)6
+K:Gmaj clef=bass
+M:4/4
+M:6/8
+L:1/8
+P:A
+[|"Am"A,,2A,, "G"B,,>C,D, | "Am"C,>B,,A,, "Em"G,,2E,, | \
+"Am"A,,2A,, "F"B,,>C,D, | "Am"C,>B,,A,, "Em"G,,2E,, |
+"C"E,2E, "G"D,2B,, | "Am"C,>B,,A,, "Em"G,,2E,, | \
+"D"F,,>G,,A,, "Em"G,,>F,,G,, | "Am"A,,3 A,,3 :|
+M:3/4
+L:1/4
+"Am"A,,E,D, | "G"C,2 B,, | "Am"A,,E,D, | "G"C,2 B,, | \
+"Am"A,,E,D, | "C"C,>B,, A,, | "G"G,,>F,,G,, | "Am"A,,3 |]
+
+X:44
+T:Kelsterne Gardens
+S:Lesley Dolman, via EF
+M:4/4
+L:1/4
+K:Dm clef=bass
+P:A
+A,,[||: "Dm"D,,D, D,/2C,/2B,,/2A,,/2| "Edim"B,,G,, E,,G,, | \
+"C"C,,C, C,/2B,,/2A,,/2G,,/2 | "Bb"B,,/2A,,/2G,,/2F,,/2 "A"A,,/2G,,/2F,,/2E,,/2 |
+"Dm"D,,D, D,/2C,/2B,,/2A,,/2 | "Edim"B,,G,, E,,G,, | \
+"Dm"A,,F,, "A"A,,,^C,,| "D"D,,3 A,,:|
+P:B
+[||: "Dm"D,A, B,G,/2A,/2 | "Bb"B,/2A,/2G,/2F,/2 "C"E,C | \
+"Bb" D,B,2D, | "A"^C,A,2G,/2A,/2 |
+"Bb" B,/2A,/2G,/2F,/2 "A" E,/2D,/2^C,/2E,/2| "A"A,,^C, "Dm"D, A,,:|
+
+X:45
+T:Kettle Drum
+K:Cmaj clef=bass
+M:4/4
+M:C|
+L:1/8
+[||: "C"E,F,G,F, E,2D,2 | "Dm"A,,2 F,2 A,,2 F,2 | "C"E,F,G,F, E,2D,2 | "Dm"A,,2 F,2 D,4 :|
+[||: "C"E,F,G,A, G,3 A, | "Am"G,3 A, G,2 E,2 | "Dm"F,G,A,2A,2^G,2 | "A" A,6 F,G, |
+"F"A,G,F,E, D,E,F,D, | "Am"E,4 A,,4 | "Dm"F,,2A,,2 "(Am)"A,,2F,2 | "Dm" D,8 :|
+
+X:46
+T:Ladies of Newcastle
+T:The Newcastle Country Dancers signature tune
+C:David Ricker
+O:Southern Faire
+S:Lea Ann Thompson
+Z:transcribed by C.McGrew (clark.mcgrew@sunysb.edu)
+H:
+%I learned this from Lea Ann and later from David.  This
+%shouldn't be played for ECD demos' without asking since it
+%really belongs to Newcastle, but it makes a great Contradance
+%Jig.  I think Susi still remembers the dance so I should probably
+%get the notes from her. -Clark
+M:6/8
+L:1/8
+Q:3/8=120
+K:Gmaj clef=bass
+P:A
+D,, [||: "G"G,,B,,D, G,F,G, | D,C,B,, "D"A,,B,,C, | "C"D,G,B,, C,D,E, | "G"D,B,,G,, "D"A,,F,,D,, |
+"G"G,,B,,D, G,F,G, | "D"D,C,B,, A,,B,,C, | "C"D,G,B,, C,B,,A,, \
+|1 "Am"G,,E,,F,, "G"G,,2 D,, :|2 "Am"G,,E,,F,, "G"G,,2 B,, :|
+P:B
+"D"A,,F,,D,, F,,A,,D, | "G"B,,A,,G,, B,,C,D, | "D"G,A,B, A,F,D, | "Am"C,D,B,, "D"A,,F,,D,, |
+"Em"E,,F,,G,, "B"A,,B,,A,, | "G"G,,A,,B,, "C"C,D,E, | "D"D,G,B,, "C"C,B,,A,, \
+|1 "Am"G,,E,,F,, "G"G,,2 B,, :|2 "Am"G,,E,,F,, "G"G,,2 D,, |]
+
+X:47
+T:Love and a Bottle
+T:1713
+K:Bbmaj clef=bass
+M:4/4
+M:6/8
+L:1/8
+G,/2^F,/2\
+[||: "Gm"G,2D, C,2B,, | "Cm"A,,B,,G,, "D"^F,,2G,/2^F,/2 | \
+"Gm"G,2D, C,2B,, | "D"A,,3 "Gm"G,,2 G,/2^F,/2 |
+"Gm"G,2D, C,2B,, | "Cm"A,,B,,G,, "D"^F,,2^F, | \
+"Gm"G,A,B, "F"A,G,F, |1 =E,3 D,2 G,/2^F,/2 :|2 E,3 D,2 D,/2E,/2 ||
+[||: "Bb"F,>G,F, F,B,F, | "Gm" F,>G,F, F,2F, | \
+"Cm"G,A,B, "Eb"A,B,G, | "D"^F,3 D,2D,/2E,/2 |
+"Bb"F,>G,F, F,E,D, | "Cm"E,D,C, "D"D,G,A, | \
+"Gm"B,A,G, "D"G,2^F, |1 "Gm"G,3 G,2 D,/2E,/2 :|2 "Gm"G,3 G,2 G,/2^F,/2 |]
+
+X:48
+T:Lulle me beyond thee
+M:6/8
+L:1/8
+Q:1/4=100
+R:Jig
+N:A variant to "Oil of Barley" or "Cold and Raw", printed by Thomas
+N:D"Urfey in 1686.  He believed the tune to be Scots.  Robert Burns made
+N:a song on this title entitled "Craigieburn Wood".
+K:Ddor clef=bass
+P:A
+"Dm"A,,2A,, F,>E,F, | "C"G,>F,G, "A"A,3 | \
+"Dm"A,,2A,, F,>E,D,| "A"^C,3 "Dm"D,3 :|
+P:B
+"F"F,2F, "C"G,>F,G, | "F"A,>B,A, "C"G,2C, |\
+"F"F,2F, "C"G,>F,G, | "Dm"A,3 "A"G,3 |
+"F"A,>B,A, "C"G,>F,E, | "Dm"F,>E,D, "A"A,3 | "Dm"SA,,2A,, F,>E,D, | "A"^C,3 "^D.S. rit. last time"D,3 :|
+
+X:49
+T:Mage on a Cree
+M:6/8
+K:Gmaj clef=bass
+L:1/8
+[||: "G"G,,>A,,G,, B,2 B, | "D"A,,>B,,A,, C,3 | "G"A,,>B,,A,, C,3 | \
+"G"B,D,G,, "C"C,2B,, | "D"A,,G,,F,, "G"G,,3 :|
+[||: "G"G,2F, G,2D, | "F"=F,2F, "C"E,2 D, | \
+"C"E,F,G, "G"G,2D, | "C"E,D,B, "D"A,3 |
+"C"E,D,C, "G"(B,C,)D, | "Am"E,D,C, "G"(B,C,)D, | \
+"C"E,D,B,, "Am"C,2B,, | "D"A,,G,,F,, "G"G,,3 :|
+
+X:50
+T:Mayden Lane
+M:C|
+L:1/8
+K:Cmaj clef=bass
+[||: "G"D,3C, B,,A,,G,,2 | "G"G,2^F,2 "C"G,2D,2 | \
+"G"G,2^F,2 "C"G,2D,C, | "D"B,,2A,,2 "G"G,,4 :|
+[||: "Am"A,,B,,C,D, "C"E,2A,,2 | "F"C,2B,,2 "Em"A,,2E,2 |\
+"Am"E,2E,2E,2 "G"D,C, | "Fm"B,,A,,"Em"B,,C, "Am"A,,4 :|
+[||: "G"D,2B,,C, "Em"D,2B,,C, | "(D)"D,C,B,,A,, "G"B,,2G,,2 | \
+"G"D,2B,,C, "(C)"D,E,D,C, | "D"B,,2A,,2 "G"G,,4 :|
+
+X:51
+T:Mayden Lane
+M:C|
+L:1/8
+K:Gmaj clef=bass
+[||: "D"A,,3G,, F,,E,,D,,2 | "D"D,2^C,2 "G"D,2A,,2 | \
+"D"D,2^C,2 "G"D,2A,,G,, | "A"F,,2E,,2 "D"D,,4 :|
+[||: "Em"E,,F,,G,,A,, "G"B,,2E,,2 | "C"G,,2F,,2 "Bm"E,,2B,,2 |\
+"Em"B,,2B,,2B,,2 "D"A,,G,, | "Cm"F,,E,,"Bm"F,,G,, "Em"E,,4 :|
+[||: "D"A,,2F,,G,, "Bm"A,,2F,,G,, | "(A)"A,,G,,F,,E,, "D"F,,2D,,2 | \
+"D"A,,2F,,G,, "(G)"A,,B,,A,,G,, | "A"F,,2E,,2 "D"D,,4 :|
+
+X:52
+T:The Merry Merry Milke Maids
+T:The Merry Milk Maids in Green
+M:6/8
+L:1/8
+K:Cmaj clef=bass
+P:(AB)3
+P:A
+C, [||: "C"C,>D,C, "G"G,,2G, | "C"E,3-E,2C, | \
+"Am"C,>D,C, "Edim"G,,2_B,, | "F"A,,3-A,,2F,, |
+"F"F,,>G,,A,,/2B,,/2 "Am/C"C,2A,, | "G"D,>C,B,,/2A,,/2 G,,2G, | \
+"C"E,>F,G, "G"D,2C, | "C"C,3-C,2 C, :|
+P:B
+[||: "C"E,>F,G, "(G)"G,>A,G, | "C"E,>F,G, G,>F,E, | \
+"F"F,2G, "(G)"A,2 B, | "C"C3-C2G, |
+"C"C2G, "Am"E,>F,G, | "F"A,2F, "G"D,>E,F, | \
+"C"G,2E, "Am"C,>D,E, | "F"D,2B,, "G"G,,>A,,B,, |
+"C"C,2C, "F"A,,>B,,C, | "G"D,2C, B,,>A,,G,, | \
+"C"E,>F,G, "G"D,2C, | "C"C,3-C,2 C, :|
+
+X:53
+T:The Merry Merry Milke Maids
+T:The Merry Milk Maids in Green
+M:6/8
+L:1/8
+K:Gmaj clef=bass
+P:(AB)3
+P:A
+G,, [||: "G"G,,>A,,G,, "D"D,,2D, | "G"B,,3-B,,2G,, | \
+"Em"G,,>A,,G,, "Bdim"D,,2=F,, | "C"E,,3-E,,2C,, |
+"C"C,,>D,,E,,/2F,,/2 "Em/G"G,,2E,, | "D"A,,>G,,F,,/2E,,/2 D,,2D, | \
+"G"B,,>C,D, "D"A,,2G,, | "G"G,,3-G,,2 G,, :|
+P:B
+[||: "G"B,,>C,D, "(D)"D,>E,D, | "G"B,,>C,D, D,>C,B,, | \
+"C"C,2D, "(D)"E,2 F, | "G"G,3-G,2D, |
+"G"G,2D, "Em"B,,>C,D, | "C"E,2C, "D"A,,>B,,C, | \
+"G"D,2B,, "Em"G,,>A,,B,, | "C"A,,2F,, "D"D,,>E,,F,, |
+"G"G,,2G,, "C"E,,>F,,G,, | "D"A,,2G,, F,,>E,,D,, | \
+"G"B,,>C,D, "D"A,,2G,, | "G"G,,3-G,,2 G,, :|
+
+X:54
+T:Mr. Beveridge's Maggot
+M:3/2
+L:1/8
+K:Gm clef=bass
+P:A
+|: "Gm"G,4 "D"(^F,3=E,/2F,/2) "Gm"G,4 | "Gm"D,2(C,B,,) "D"(A,,B,,)C,2 "GM"B,,2G,,2 |\
+"Bb"B,4 "F"(A,3G,/2A,/2) "Bb"B,4 | "Bb"F,2(E,D,) "F"C,D,E,2 "Bb"D,2B,,2 :|
+P:B
+[|"Bb"D,2 F,4 F,2 F,4 | "F7"C,2 E,4 E,2 E,4 | \
+"Gm"B,,2 D,4 D,2 D,2(C,B,,) | "D"(A,,B,,)C,2 "Gm"B,,2(A,,G,,) "D"^F,,2D,,2 |
+"D"D,2 A,4 A,2 A,2D,2 | "Gm"B,2A,2 "D"G,2^F,2 "Gm"G,4 |\
+"Bb"D,E,F,2 B,,C,D,2 "D"A,,B,,C,2 | "Gm"B,,2G,,2 "D"G,,3^F,, "Gm"G,,4 |]
+
+X:55
+T:Newcastle
+K:Gmaj clef=bass
+M:4/4
+M:C|
+L:1/4
+P:A
+"G"B,,D,G,,A,, | "G"G,,>A,, "D"G,,D,, | "G"B,,D,G,,D, | "C"E,G,2F,/2E,/2 |
+"G"D,B,,A,,G,, | "C"E,,E,2D,/2C,/2 | "C"D, "D"B,,A,,>G,, |1 "G"G,,4 :|2 "G"G,,3 E,/2F,/2 ||
+[||: "G"G,/2F,/2E,/2D,/2 G,>B,, | "C"A,,G,2A,, | "G" G,,>A,, B,,F,, | "C"E,,E,2F, | \
+"G"G,/2F,/2E,/2D,/2 G,>B,, | "Am"A,,A,,C,>D, | "C"E,B,, "D"A,,>G,, |1 "G"G,,3 E,/2F,/2 :|2 "G"G,,4 |]
+
+X:56
+T:The Night Peece
+T:The Shaking of the Sheets
+M:6/8
+L:1/8
+R:Jig
+P:(AABBB)3
+K:Dmaj clef=bass
+P:A
+[||: "D"F,2D, A,2F,| "Bm"D,2A,, D,F,2| "A"E,G,2 F,>E,D,| "G"B,,D,E,/2F,/2 G,2A,:|
+P:B
+[||: "G"B,2G, "D"A,2G,| "G"F,>E,D, "A"E,2A,,| "D"D,2C, "G"D,2A,,| "A"F,E,2 D,3 :|
+
+X:57
+T:The Night Peece
+T:The Shaking of the Sheets
+M:6/8
+L:1/8
+R:Jig
+P:(AABBB)3
+K:Gmaj clef=bass
+P:A
+[||: "G"B,,2G,, D,2B,,| "Em"G,,2D,, G,,B,,2| "D"A,,C,2 B,,>A,,G,,| "C"E,,G,,A,,/2B,,/2 C,2D,:|
+P:B
+[||: "C"E,2C, "G"D,2C,| "C"B,,>A,,G,, "D"A,,2D,,| "G"G,,2F,, "C"G,,2D,,| "D"B,,A,,2 G,,3 :|
+
+X:58
+T:Parson's Farewell
+R:march
+B:"FIFTY OLD ENGLISH FOLK DANCE AIRS", Edgar H. Hunt ed., Schott & Co. Ltd. pub., London 1939
+Z:2004-2014 John Chambers <jc:trillian.mit.edu>
+M:2/2
+L:1/8
+K:Dm clef=bass
+|: "Dm"(F,2D,2) D,2(E,F,) | "C"(G,2C,2) C,3C, |\
+"Bb"(D,E,)F,2 E,2D,2 | [1 "A"(C,2A,,2) A,,4 :| [2 "A"(C,2A,,2) A,,2 A,2 |]
+|: "F"F,4 F,2A,2 | "Dm"F,4 F,2A,2 |\
+"F"(F,G,)A,2 (F,G,)A,2 | "C"G,2E,2 E,4 |
+"Gm"(E,F,)G,2 (E,F,)G,2 | "Dm"F,2D,2 "C"(D,E,)F,G, |\
+"Bb"A,2G,F, "A"(E,D,)E,2 | [1 "Dm"D,6 A,2 :| [2 "Dm"D,8 |]
+
+X:59
+T:Parthenia
+M:C|
+K:Dm clef=bass
+L:1/4
+P:A
+[||: "Gm"G,,2 G,2 | "C"E,3 D,/2C,/2 | "Gm"B,,/2C,/2D,C,B,, | "F"A,,F,,F,,2 |
+"Eb"G,,2 G,2 | "Dm" D,/2C,/2 | "Cm"A,/2B,/2C,B,A, | "G"G,,4 :|
+P:B
+L:1/8
+"F"A,,3 G,/2A,/2 "Gm"B,,3A,/2B,/2 | "F" C,6B,C, | \
+"Gm"D,C,B,,A,, G,,2G,2 | "D"^F,4 D,3E,/2F,/2 |
+"Gm"G,2D,2 "F"=F,2C,2 | "Eb"B,,2D,2 "Dm"D,,2E,,F,, | \
+"Gm"G,,F,,E,,D,, "F"C,,2C, | "Gm" B,,4 G,,4 :|
+
+X:60
+T:Picking of Sticks
+T:Lavena
+T:Pop Goes the Weasel
+T:Ring Around the Rosy
+C:John Playford, 1651
+M:6/8
+L:1/8
+P:A(Lavena)
+K:Dm clef=bass
+[||: D, | "Dm"D,2D, "A7"^C,>=B,,C, | "Dm"D,2D, A,,2A,, | "Bb"D,2D, "A7"^C,>=B,,C, | "Dm"D,3 A,,2_B,, | \
+"Gm"B,,>D,C, "C7"B,,>C,B,, | "F"A,,>B,,A,, "C"G,,>F,,E,, | "Dm"F,,>G,,A,, "Gm"G,,>A,,F,, | "A7"E,,3 "Dm"D,,2 :|
+P:B(Picking Up Sticks)
+K:Amaj clef=bass
+[||: "A"E,2E, E,F,E, | "D"D,2B,, B,,2C, | "E"D,2D, D,E,D, |1,3 "A"C,2A,, A,,C,D, :|2 "A"E,2A,, A,,2E, :|4 "A"E,2A,, A,,2E,, :|
+P:C(Pop Goes the Weasel)
+[||: "A"A,,2A,, "E"B,,2B,, | "A"C,E,C, A,,2E,, | "A"A,,2A,, "E"B,,2D, | "A"C,3 A,,2E,, | \
+"A"A,,2A,, "E"B,,2B,, | "A"C,E,C, A,,3 | "D"F,3 "E"B,,2D, | "A"C,3 A,,3 :|
+P:D(Ring Around the Rosy)
+[||: "A"E,2E, C,2F, | E,3 C,2C, | E,2E, C,2F, | E,3 C,2D, | "E"D,2D, B,,2B,, | D,2D, B,,2B,, \
+|1 E,2D, C,2B,, | E,3-E,3 \
+:|2 "Bm"C,D,E, "E"F,2G, | "A"A,3 E,3 |]
+
+X:61
+T:Portsmouth
+R:Hornpipe
+M:4/4
+L:1/8
+K:Gmaj clef=bass
+D,,2 [||: "G"G,,3A,, B,,A,,G,,F,,| "C"E,,4E,4| "G"D,2B,,2 "C"C,B,,A,,G,,| "D"A,,6D,,2|
+"G"G,,3A,, B,,A,,G,,F,,| "C"E,,4E,4| "G"D,2B,,2 "D"C,B,,A,,B,,|1"G"G,,6 D,,2:|2"G"G,,6 D,2|]
+[||: "G"G,3A, B,A,G,F,| "Em"G,2D,2B,,2D,2| "G"G,2B,,2 "C"C,B,,A,,G,,| "D"A,,6 D,,2|
+"G"G,,3A,, B,,A,,G,,F,,| "C"E,,4E,4| "G"D,2B,,2 "D"C,B,,A,,B,,|1"G"G,,6D,2:|2"G"G,,6D,,2|]
+
+X:62
+T:Prince William
+M:C|
+Z:Mary-Lou Knack
+R:reel
+K:Amaj clef=bass
+[||: "A"A,,4 C,2B,,A,,| "E"B,,4 E,,2D,2| "A"C,4 "E"B,,4| "A"A,,G,,A,,B,, "F#m"A,,2B,,2|
+"A"C,2A,,2 E,,2C,2| "E"B,,6 "E-A"A,,2| "E"G,,2E,2 "B7"F,,2^D,2 \
+|1 "E"E,6 E,,2 :|2 \
+"E"E,6 C,D, :|
+|: "A"E,4 F,3E,| "E"D,2C,2 B,,2E,2| "A"D,2C,2 B,,2A,,2| "E"G,,A,,B,,G,, E,,2F,,G,,|
+"A"A,,2G,,A,, "E"B,,2A,,B,,| "A"C,2B,,C, "E"D,2E,D,| "A"C,2B,,A,, "E"E,,2G,,2 \
+|1 "A"A,,4 A,,2 C,D, :|2 "A"A,,4 A,,2 E,,2 :|
+
+X:63
+T:Round About our coal fire
+L:1/8
+M:9/8
+K:Gmix clef=bass
+|:G,,| "F"A,,3/2B,,/2C, C,3/2D,/2C, "C"C,2G,,| "F"A,,3/2B,,/2C, C,>B,,A,, "G"B,,2B,,|
+"F"C,A,,A,, A,,>G,,F,, A,,B,,C,| "G"D,2C, B,,2A,, G,,2:|
+|:A,| "C"G,2F, E,2D, C,2A,|G,E,C, C,>D,E, "Dm"F,2 E,|
+"F"F,2A,, A,,>G,,F,, A,,>B,,C,| "G"D,2C, B,,2A,, G,,2:|
+
+X:64
+T:Rufty tufty
+M:C|
+L:1/4
+Q:1/4=180
+B:The Round Band Book of Playford
+P:(A2B2C2)3
+K:Gmaj clef=bass
+[||: "D"D,2 D,E, | "D"F,2 E,F, | "G"G,G, "A7"F,>E, |1 D,4 :|2 D,3 E,/2F,/2 |]
+[||: "G"G,F, E,D, | "D7"D,C, "G"B,,>C, | "G"D,D, "Am"C,B,, \
+|1 "D7"A,,2 "G"G,, E,/2F,/2 :|2 "D7"A,,2 "G"G,,2 |]
+[||: "G"B,,>C, D,D, | "C"E,C, "G"D,2 | \
+"G"B,,>C, D,D, | "C"E,C,D, "G"B,,/2C,/2 | \
+"G"D,D, C,B,, | "D"A,,2 "G"G,,2 :|
+
+X:65
+T:Saint Martins
+M:C|
+L:1/4
+K:Gmaj clef=bass
+P:A
+E,, | "Am" A,,/2B,,/2 C, "G" B,,/2C,/2 D, | "C" C,2 "D" C, D, | \
+"C" E,/2F,/2 G, "D" F,> E, | "E" E,3 E,/2F,/2 |
+"Em" G, F,/2E,/2 "G" D, D,/2E,/2 | "Dm" =F, E,/2D,/2 "Am" C, C,/2D,/2 | \
+"C" E, D,/2C,/2 "E" B,, > A,, |  [1 "A" A,,3 :|  [2 "A" A,,4 ||
+P:B
+|: "G" B,, "(C)" E, "G" B,, "(Am)" C, | \
+"Em" B,, > A,, G,,/2F,,/2 E,, | \
+"C" C,/2D,/2E,/2=F,/2 "D" D,>E, | \
+"C" C,3 E,/2F,/2 |
+"G" G, D,/2E,/2 "Dm" =F, C,/2D,/2 | \
+"C" E, B,,/2C,/2 "G" D, C,/2D,/2 | \
+"C" E, D,/2C,/2 "E" B,, > A,, | \
+ [1 "A" A,,4 :|  [2 "A" A,,3 |]
+
+X:66
+T:Saturday night and Sunday morn
+M:6/8
+L:1/8
+R:Jig
+P:(AABB)3
+K:Dmaj clef=bass
+P:A
+F,| "D"F,E,D, G,2A,,| "Am"E,E,E, E,2G,| "D"F,E,D, G,2A,,| "G"D,D,D, D,2:|
+P:B
+C,| "G"B,,>A,,G,, "D"F,,E,,D,,| "Am"E,E,E, E,2C,| "Am"B,,>A,,G,, "D"F,,E,,D,,| "G"D,D,D, D,2:|
+
+X:67
+T:Saturday night and Sunday morn
+M:6/8
+L:1/8
+R:Jig
+P:(AABB)3
+K:Gmaj clef=bass
+P:A
+B,, [||: "G"B,,A,,G,, C,2D,,| "Dm"A,,A,,A,, A,,2C,| "G"B,,A,,G,, C,2D,,|1"C"G,,G,,G,, G,,2B,, :|2 "C"G,,G,,G,, G,,2F, |]
+P:B
+[||: "C"E,>D,C, "G"B,,A,,G,,| "Dm"A,A,A, A,2F,| "Dm"E,>D,C, "G"B,,A,,G,, |1 "C"G,G,G, G,2F, |2 "C"G,G,G, G,2B,,:|
+
+X:68
+T:Scotch Cap
+T:Edinburgh Castle
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:3/8=120
+M:6/8
+L:1/8
+K:Ddor clef=bass
+P:A
+|: "Dm"D,,2D,, D,2D, | "C"E,2D, C,2A,, | "G"B,,2D, B,,2A,, \
+|1 "G"B,,3 D,3 :|2 "G"B,,2 D,2 D,/2E,/2 ||
+P:B
+|: "Dm"F,2A,, A,,2 D,/2E,/2 | "F"F,2A,, A,,2 D,/2E,/2 | \
+"Dm"F,2A,, A,,2F,, | "F"A,,3 D,3 |
+"G"B,,2B,, "F"A,,2F,, | "G"G,,2G,, D,2D, | "G"B,,2B,, "F"A,,F,,2 \
+|1 "C"E,,3 "Dm"D,,2 D,/2E,/2:|2 "C"E,,3 "Dm"D,,3 |]
+X:69
+T:61. Sellenger's Round
+M:6/8
+L:1/8
+B:The Round Band Book of Playford
+K:Cmaj clef=bass
+[||: "G"G,,3 G,,>A,,B,, | "C"C,3 C,>D,E, | "F"D,2C, "G"B,,>A,,B,, | "C"C,6 |
+"G"G,,2G,, G,,>A,,B,, | "C" C,3 "Am"C,>D,E, | \
+"Dm"D,2C, "G"B,,>A,,B,, | "C" C,3-C,2 D, |]
+[||: "Am"E,3 E,>D,C, | "Dm"D,3 D,2D, | "G"B,,>C,D, D,>C,B,, | "D"A,,3 D,2B,, |
+"C"C,>D,C, "G"B,,2G,, | "D7"A,,>B,,C, "G"B,,2G,, | "C"A,,2G,, "D7"^F,,E,,F,, \
+|1 "G"G,,3-G,,2 D, :|2 "G"G,,3-G,,3 :|
+X:70
+T:Step Stately
+M:6/4
+L:1/4
+Q:1/4=100
+B:The Round Band Book of Playford
+K:Gm clef=bass
+D,, | "Gm"G,,2 G,, "F"A,,2 F,, | "Ebm"B,, G,,2 "Dm"C,2 A,, |\
+"Gm"D, B,,2 "Cm"A,,2 G,, | "Gm"G,,3-G,,2 D,, |\
+"Cm"G,,2 G,, "F7"A,,2 F,, | "Gm"B,, G,,2 "Cm"C,2 A,, |\
+"Bb"D, B,,2 "F"A,,2 G,, | "Gm"G,,3-G,,2 ||
+G, | "F"F, D,2 "Eb"E,2 C, | "Bb"D, B,,2 "F"C,2 A,, |\
+"Gm"B,, G,,2 "F"A,, F,,2 | "Bb"B,,3-B,,2 B,, |\
+"F"C, A,,2 "D"D,2 A,, | "D"^F,, D,,2 "Gm"B,,2 "Cm"C, |\
+"Eb"D, B,,2 "F"C, A,,2 | "Gm"G,,3-G,,2 |]
+
+X:71
+T:Stingo
+T:The Oyle of Barley
+T:Cold and Raw
+S:Dancing Master, 1651 [see next also]
+Q:1/4=120
+L:1/8
+M:6/8
+K:Gm clef=bass
+P:(AABB)3
+P:A
+[||: "Gm"G,,2G,,D,2B,,| "F"C,A,,2F,,2F,,| "Gm"G,,2G,,D,2B,,| "F"G,,3B,,3 :|
+P:B
+[||: "Bb"B,,2B,,B,,2A,,/2B,,/2| "F"C,2C,C,2C,| "Bb"D,2D, "F"G,2G, | "Bb"D,3 "F"F,3 |
+"Bb"B,,2B,,B,,2A,,/2B,,/2| "F"C,2C,C,3/2D,/2E,| "Ev"D,3/2C,/2B,, "F"C,A,,2| "Gm"G,,3B,,3:|
+
+X:72
+T:Twenty-Ninth of May
+L:1/4
+M:4/4
+K:Dmaj clef=bass
+P:A
+[||: "D"A,F, "G"G,F, | "A"E,/2D,/2C,/2B,,/2 A,, E,/2F,/2 | \
+"G"G,B,, "A"C,B,,/2C,/2 \
+|1 "D"D,A,,F,, E,,/2D,,/2 :|2 "D"D,3 A,, |]
+"D"F,,A,,A,,G,,/2A,,/2 | "G"G,,B,,B,,>B,, | "A"C,/2D,/2E, C,/2D,/2E, | "A"C,B,,/2C,/2 A,,D,/2E,/2 |
+"D"F,E,/2F,/2 D,E,/2F,/2 | "G"G,F,/2G,/2 "(A)"E,F,/2G,/2 | "Em"A,B,, "A"C,B,,/2C,/2 | "D"D,4 |]
+
+X:73
+T:Terpsichore
+S:Colin Hume's website,  colinhume.com  - chords can also be printed below the stave.
+Q:1/2=108
+C:Michael Praetorius
+H:For the dance by Charles Bolton
+M:4/4
+L:1/8
+K:Gmaj clef=bass
+P:A
+|: B,,C, | "G"D,2D,2 "D7"D,3C, | "G"B,,2G,,2G,,2C,D, | "C"E,2C,2C,2B,,C, | "G"D,2B,,2B,,2G,,2 | "Am"A,,2G,,2 "D7"A,,2G,,A,, | "G"B,,2G,,2G,,2 :|
+P:B
+|: F,,G,, | "D"A,,2A,,2A,,3G,, | "D"F,,2D,,4A,,2 | "D7"F,,2D,,4D,2 | "G"B,,2G,,4C,D, | "C"E,2C,2C,D, E,2 | "G"D,2B,,4F,,G,, |
+"D"A,,2A,,2A,,B,,A,,G,, | "D"F,,2D,,4A,,2 | "D7"F,,2D,,4D,2 | "G"B,,2G,,4C,B,, | "Am"A,,2G,,2 "D7"F,,3G,, | "G"G,,6 :|
+
+X:74
+T:Up With Aily
+M:3/2
+L:1/4
+A:England
+K:Cmaj clef=bass
+|: "Am"E,2 A,,2 A,2| "G"G,/2A,/2 B, "E"E, ^G, "Am"A,2| "C"E, G,/2F,/2 E, G, E, C,|
+"G"D, G,2 D, B,, G,,| "C"C, E, "F"F,2 E, F,| "G"D,4 "C"C,2:|
+"C"E, C,2 E, G, E,| "G"D, B,,2 D, G, D,| "Am"C, E, A,, C, D,, A,,| "E"^G,,3 A,, B,,2|
+"Am"C, E,2 B,, C, A,, | "B"^F, B,2 F, "E"^G, E,| "Am"A, E, "Dm"F,/2E,/2 D, "Am"E,/2D,/2 C,| "E"C,3 B,, "Am"A,,2:|
+
+X:75
+T:Whirligig
+M:6/8
+L:1/8
+K:Bbmaj clef=bass
+P:A
+[||: "Gm"G,G,G, B,A,G,| "Dm"F,2D, F,2F,| "Gm"G,G,G, B,A,G,| "Dm"F,D,D, D,2G,:|
+[||: "Bb"F,2E, F,E,D,| "Cm"E,C,C, C,D,E,| "Dm"D,D,D, D,E,F,| "Gm"G,G,,G,, G,,2G,:|
+
+X:76
+T:Whirligig
+M:6/8
+L:1/8
+K:Cmaj clef=bass
+P:A
+[||: "Am"A,A,A, CB,A,| "Em"G,2E, G,2G,| "Am"A,A,A, CB,A,| "Em"G,E,E, E,2A,:|
+[||: "C"G,2F, G,F,E,| "Dm"F,D,D, D,E,F,| "Em"E,E,E, E,F,G,| "Am"A,A,,A,, A,,2A,:|
+
+X:77
+T:Whirligig
+M:6/8
+L:1/8
+K:Fmaj clef=bass
+P:A
+[||: "Dm"D,D,D, F,E,D,| "Am"C,2A,, C,2C,| "Dm"D,D,D, F,E,D,| "Am"C,A,,A,, A,,2D,:|
+[||: "F"C,2B,, C,B,,A,,| "Gm"B,,G,,G,, G,,A,,B,,| "Am"A,,A,,A,, A,,B,,C,| "Dm"D,D,,D,, D,,2D,:|
+
+X:78
+T:Wibsey Roundabout
+T:to the tune "Hugh O'Donnell"
+P:Hugh O'Donnell
+C:Turlough O'Carolan
+B:Barnes "English Country Dance Tunes" v.2 p.138
+B:"Complete Collection ... of CAROLAN" Ossian
+M:6/8
+L:1/8
+K:Cmaj clef=bass
+P:A
+G,, \
+| "C"G,,2C, C,D,C, | "G"B,,2C, D,2F, | "Am"E,2A,, A,,C,A,, | "G"D,2G,, G,,B,,G,, \
+| "C"C,2G,, "F"C,B,,A,, | "G"G,,3 G,3 | "C"E,C,E, E,C,E, | "F"F,3 A,3 |
+"C"G,>A,G, "Am"E,C,E, | "Dm"F,>G,F, "G"D,B,,D, | "C"E,>F,E, "Am"C,A,,C, | "F"D,>E,D, "G"B,,G,,B,, \
+| "C"C,2G,, "F"C,B,,A,, | "G"G,,3 G,3 | "F"F,E,D, "G"C,D,B,, | "C"C,3 C,3 ||
+P:B
+C, \
+| "C"G,2C, G,2C, | "F"A,G,F, "C"E,D,C, | "G"B,,D,D, D,E,D, | B,,D,D, D,E,D, \
+| "Am"C,E,E, E,F,E, | A,,B,,C, "G"B,,A,,G,, | "Am"A,,B,,C, "G"B,,C,D, | "F"A,,B,,C, "G"D,B,,G,, |
+"C"G,2G, "F"A,2A, | "G"B,2B, "C"C3 | "C"C2G, "F"C2F, | "C"C2E, "G"D,DC \
+| "G"B,A,G, G,A,G, | G,F,E, D,G,F, | "C"E,D,C, "G"D,C,B,, | "C"C,3 C,2 |]
+
+X:79
+T:Wibsey Roundabout
+T:to the tune "Hugh O'Donnell"
+P:Hugh O'Donnell
+C:Turlough O'Carolan
+B:Barnes "English Country Dance Tunes" v.2 p.138
+B:"Complete Collection ... of CAROLAN" Ossian
+M:6/8
+L:1/8
+K:Gmaj clef=bass
+P:A
+D,, \
+| "G"D,,2G,, G,,A,,G,, | "D"F,,2G,, A,,2C, | "Em"B,,2E,, E,,G,,E,, | "D"A,,2D,, D,,F,,D,, \
+| "G"G,,2D,, "C"G,,F,,E,, | "D"D,,3 D,3 | "G"B,,G,,B,, B,,G,,B,, | "C"C,3 E,3 |
+"G"D,>E,D, "Em"B,,G,,B,, | "Am"C,>D,C, "D"A,,F,,A,, | "G"B,,>C,B,, "Em"G,,E,,G,, | "C"A,,>B,,A,, "D"F,,D,,F,, \
+| "G"G,,2D,, "C"G,,F,,E,, | "D"D,,3 D,3 | "C"C,B,,A,, "D"G,,A,,F,, \
+|1 "G"G,,3 G,,2 D,, :|2 "G"G,,3 G,,2 G,, |]
+P:B
+| "G"D,2G,, D,2G,, | "C"E,D,C, "G"B,,A,,G,, | "D"F,,A,,A,, A,,B,,A,, | F,,A,,A,, A,,B,,A,, \
+| "Em"G,,B,,B,, B,,C,B,, | E,,F,,G,, "D"F,,E,,D,, | "Em"E,,F,,G,, "D"F,,G,,A,, | "C"E,,F,,G,, "D"A,,F,,D,, |
+"G"D,2D, "C"E,2E, | "D"F,2F, "G"G,3 | "G"G,2D, "C"G,2C, | "G"G,2B,, "D"A,,A,G, \
+| "D"F,E,D, D,E,D, | D,C,B,, A,,D,C, | "G"B,,A,,G,, "D"A,,G,,F,, |1 "G"G,,3 G,,2 G,, :|2 "G"G,,3 G,,2 D,, |]
+
