@@ -1,4 +1,10 @@
 output/*
 tmp/*
+*.zip
+
+# Emacs tmp files.
 *~
 \#*
+
+# vim tmp files
+.#*
