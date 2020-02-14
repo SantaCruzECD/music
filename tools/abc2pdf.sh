@@ -8,7 +8,7 @@ mkdir -p "$TMP"
 mkdir -p "$OUT"
 mkdir -p "$OUT/src"
 mkdir -p "$OUT/PDF"
-sed -e "s/@DATE@/$DATE/" < stamp.ps | ps2pdf - "$TMP/stamp.pdf"
+sed -e "s/@DATE@/$DATE/" < tools/stamp.ps | ps2pdf - "$TMP/stamp.pdf"
 
 for IF in "$@" ; do
     FILE="$(basename "$IF" .abc)"

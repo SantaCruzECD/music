@@ -1,6 +1,7 @@
 output/*
 tmp/*
 *.zip
+make.hst
 
 # Emacs tmp files.
 *~

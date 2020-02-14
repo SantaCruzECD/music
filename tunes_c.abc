@@ -997,15 +997,16 @@ K:G clef=treble
     "G"dd cB | "D"A2 "G"G2 :|]
 
 X:65
-T:Saint Martins
+T:Saint Martin's
 M:C|
 L:1/4
 K:G clef=treble
+P: (AB)3 (or 6)
 P:A
-E | "Am" A/B/ c "G" B/c/ d | "C" c2 "D" c d | \
+E [|: "Am" A/B/ c "G" B/c/ d | "C" c2 "D" c d | \
     "C" e/f/ g "D" f> e | "E" e3 e/f/ |
 "Em" g f/e/ "G" d d/e/ | "Dm" =f e/d/ "Am" c c/d/ | \
-    "C" e d/c/ "E" B > A | [1 "A" A3 :| [2 "A" A4 ||
+    "C" e d/c/ "E" B > A | [1 "A" A3 E :| [2 "A" A4 ||
 P:B
 |: "G" B "(C)" e "G" B "(Am)" c | \
        "Em" B > A G/F/ E | \
@@ -1014,7 +1015,7 @@ P:B
    "G" g d/e/ "Dm" =f c/d/ | \
        "C" e B/c/ "G" d c/d/ | \
        "C" e d/c/ "E" B > A | \
-       [1 "A" A4 :| [2 "A" A3 |]
+       [1 "A" A4 :| [2 "^D.C ad infinitum" "A" A3 |]
 
 X:66
 T:Saturday night and Sunday morn
@@ -1057,11 +1058,12 @@ P:B
    "G"B2B "F"A2F | "G"G2G d2d | "G"B2B "F"AF2 \
        |1 "C"E3 "Dm"D2 d/e/:|2 "C"E3 "Dm"D3 |]
 X:69
-T:61. Sellenger's Round
+T:Sellenger's Round
 M:6/8
 L:1/8
 B:The Round Band Book of Playford
 K:C clef=treble
+P:(AABB)3
 [|: "G"G3 G>AB | "C"c3 c>de | "F"d2c "G"B>AB | "C"c6 |
     "G"G2G G>AB | "C" c3 "Am"c>de | \
         "Dm"d2c "G"B>AB | "C" c3-c2 d |]
@@ -1109,6 +1111,7 @@ P:A
 [|: "D"af "G"gf | "A"e/d/c/B/ A e/f/ | \
        "G"gB "A"cB/c/ \
     |1 "D"dAF E/D/ :|2 "D"d3 A |]
+P:B
 "D"FAAG/A/ | "G"GBB>B | "A"c/d/e c/d/e | "A"cB/c/ Ad/e/ |
 "D"fe/f/ de/f/ | "G"gf/g/ "(A)"ef/g/ | "Em"aB "A"cB/c/ | "D"d4 |]
 
